@@ -1,0 +1,847 @@
+{
+    "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+    "success": true,
+    "comments": "testing",
+    "results": {
+      "businessHeader": {
+        "bin": "800914632",
+        "businessName": "EXPERIAN CONSUMER DIRECT",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "phone": "+19495673800",
+        "taxId": "176970333",
+        "websiteUrl": "consumerinfo.com",
+        "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+        "dbaNames": [
+          "EXPERIAN CONSUMER DIRECT"
+        ],
+        "customerDisputeIndicator": true,
+        "foreignCountry": true,
+        "corporateLinkageIndicator": true,
+        "matchingBranchAddress": {
+          "bin": "800914632",
+          "street": "475 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "branchLocation": {
+          "bin": "800914632",
+          "locationId": "475 ANTON BLVD"
+        }
+      },
+      "collectionsDetail": [
+        {
+          "accountStatus": "Open Account",
+          "datePlacedForCollection": "2016-03-25",
+          "dateClosed": "2016-05-01",
+          "amountPlacedForCollection": 5200,
+          "amountPaid": 0,
+          "collectionAgencyInfo": {
+            "name": "A.G. ADJUSTMENTS LTD",
+            "phoneNumber": "+16314258800"
+          }
+        }
+      ],
+      "tradePaymentExperiences": [
+        {
+          "paymentIndicator": {
+            "code": "-",
+            "definition": "Pays slower"
+          },
+          "businessCategory": "ACCT SERVICES",
+          "dateReported": "2018-01-03",
+          "dateLastActivity": "2018-01-03",
+          "terms": "NET30",
+          "recentHighCredit": {
+            "modifier": null,
+            "amount": 123
+          },
+          "accountBalance": {
+            "modifier": "123",
+            "amount": 123
+          },
+          "currentPercentage": 90,
+          "dbt30": 5,
+          "dbt60": 3,
+          "dbt90": 1,
+          "dbt91Plus": 1,
+          "comments": "Account closed",
+          "tradelineFlag": {
+            "code": "Y",
+            "definition": "Open Account, No Aging"
+          },
+          "newlyReportedIndicator": {
+            "code": "string",
+            "definition": "string"
+          },
+          "customerDisputeIndicator": "Y",
+          "itipConsolidatedNumber": 123
+        }
+      ],
+      "additionalPaymentExperiences": [
+        {
+          "paymentIndicator": {
+            "code": "-",
+            "definition": "Pays slower"
+          },
+          "businessCategory": "ACCT SERVICES",
+          "dateReported": "2018-01-03",
+          "dateLastActivity": "2018-01-03",
+          "terms": "NET30",
+          "recentHighCredit": {
+            "modifier": null,
+            "amount": 123
+          },
+          "accountBalance": {
+            "modifier": "123",
+            "amount": 123
+          },
+          "currentPercentage": 90,
+          "dbt30": 5,
+          "dbt60": 3,
+          "dbt90": 1,
+          "dbt91Plus": 1,
+          "comments": "Account closed",
+          "tradelineFlag": {
+            "code": "Y",
+            "definition": "Open Account, No Aging"
+          },
+          "newlyReportedIndicator": {
+            "code": "string",
+            "definition": "string"
+          },
+          "customerDisputeIndicator": "Y",
+          "itipConsolidatedNumber": 123
+        }
+      ],
+      "paymentTotals": {
+        "newlyReportedTradelines": {
+          "tradelineCount": 12,
+          "currentDbt": 18,
+          "totalHighCreditAmount": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 100,
+          "dbt30": 90,
+          "dbt60": 5,
+          "dbt90": 3,
+          "dbt91Plus": 1,
+          "numberOfLines": 27,
+          "dbt": 33
+        },
+        "continuouslyReportedTradelines": {
+          "tradelineCount": 12,
+          "currentDbt": 18,
+          "totalHighCreditAmount": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 100,
+          "dbt30": 90,
+          "dbt60": 5,
+          "dbt90": 3,
+          "dbt91Plus": 1,
+          "numberOfLines": 27,
+          "dbt": 33
+        },
+        "combinedTradelines": {
+          "tradelineCount": 12,
+          "currentDbt": 18,
+          "totalHighCreditAmount": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 100,
+          "dbt30": 90,
+          "dbt60": 5,
+          "dbt90": 3,
+          "dbt91Plus": 1,
+          "numberOfLines": 27,
+          "dbt": 33
+        },
+        "additionalTradelines": {
+          "tradelineCount": 12,
+          "currentDbt": 18,
+          "totalHighCreditAmount": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 100,
+          "dbt30": 90,
+          "dbt60": 5,
+          "dbt90": 3,
+          "dbt91Plus": 1,
+          "numberOfLines": 27,
+          "dbt": 33
+        },
+        "tradelines": {
+          "tradelineCount": 12,
+          "currentDbt": 18,
+          "totalHighCreditAmount": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 100,
+          "dbt30": 90,
+          "dbt60": 5,
+          "dbt90": 3,
+          "dbt91Plus": 1,
+          "numberOfLines": 27,
+          "dbt": 33
+        }
+      },
+      "monthlyPaymentTrends": [
+        {
+          "date": "2017-08-31",
+          "dbt": 15,
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 95,
+          "dbt30": 3,
+          "dbt60": 1,
+          "dbt90": 1,
+          "dbt91Plus": 0
+        }
+      ],
+      "industryPaymentTrends": {
+        "sic": "1521",
+        "trends": [
+          {
+            "date": "2017-08-31",
+            "dbt": 15,
+            "totalAccountBalance": {
+              "amount": 12978,
+              "modifier": "Balance is more than amount reported"
+            },
+            "currentPercentage": 95,
+            "dbt30": 3,
+            "dbt60": 1,
+            "dbt90": 1,
+            "dbt91Plus": 0
+          }
+        ]
+      },
+      "quarterlyPaymentTrends": [
+        {
+          "date": "2017-08-31",
+          "dbt": 15,
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 95,
+          "dbt30": 3,
+          "dbt60": 1,
+          "dbt90": 1,
+          "dbt91Plus": 0
+        }
+      ],
+      "bankruptcyDetail": [
+        {
+          "dateFiled": {},
+          "legalType": "BANKRUPTCY",
+          "legalAction": "CHAPTER 11",
+          "documentNumber": "1511878",
+          "filingLocation": "DELAWARE FEDERAL BANK COURT-WILMINGTON",
+          "owner": "CROCKER INDUSTRIES",
+          "customerDisputeIndicator": 1,
+          "liabilityAmount": 1,
+          "assetAmount": 1,
+          "exemptAmount": 1
+        }
+      ],
+      "taxLienDetail": [
+        {
+          "dateFiled": "2017-03-18",
+          "legalType": "State Tax",
+          "legalAction": "Filed",
+          "documentNumber": "2012T15358",
+          "filingLocation": "ONONDAGA COUNTY CLERKS OFFICE",
+          "owner": "STATE OF NEW YORK",
+          "liabilityAmount": 4289,
+          "customerDisputeIndicator": true,
+          "taxLienDescription": "AA"
+        }
+      ],
+      "judgmentDetail": [
+        {
+          "dateFiled": "2021-12-11",
+          "legalType": "string",
+          "legalAction": "string",
+          "documentNumber": "string",
+          "filingLocation": "string",
+          "owner": "string",
+          "liabilityAmount": 0,
+          "plaintiffName": "string",
+          "customerDisputeIndicator": true
+        }
+      ],
+      "uccFilingsSummary": {
+        "uccFilingsCount": 1,
+        "uccFilingsTrends": [
+          {
+            "date": "2017-08-31",
+            "count": 15,
+            "derogatoryCount": 10,
+            "releasesAndTerminationsCount": 95,
+            "continuationsCount": 3,
+            "amendedAndAssignedCount": 3
+          }
+        ]
+      },
+      "uccFilingsDetail": [
+        {
+          "dateFiled": "2017-08-31",
+          "legalType": "UCC",
+          "legalAction": "Assignment",
+          "documentNumber": "A123123",
+          "filingLocation": "CA",
+          "collateralCodes": [
+            {
+              "code": "9",
+              "definition": "Hereafter Acquired Property"
+            }
+          ],
+          "securedParty": "STAGE COACH DIST INC AZ",
+          "assignee": "COYOTE GREETINGS INC AZe",
+          "owner": "COYOTE GREETINGS INC AZe",
+          "customerDisputeIndicator": true,
+          "originalUCCFilingsInfo": {
+            "legalAction": "TERMINATED",
+            "filingState": "MA",
+            "documentNumber": "123",
+            "dateFiled": "2001-01-01"
+          }
+        }
+      ],
+      "corporateRegistration": {
+        "stateOfOrigin": "CA",
+        "legalName": "XYZ, INC.",
+        "charterNumber": "042147607",
+        "originalFilingDate": "2017-07-15",
+        "recentFilingDate": "2017-07-15",
+        "incorporatedDate": "1973-01-20",
+        "businessType": "LLC",
+        "statusFlag": "Active",
+        "statusDescription": "Good standing",
+        "profitFlag": "Profit",
+        "existenceTermYears": 3,
+        "existenceTermDate": "2025-12-31",
+        "federalTaxId": "135006789",
+        "stateTaxId": "NY100199938",
+        "domesticForeignIndicator": "Domestic filing state",
+        "agentName": "John Doe",
+        "agentAddress": {
+          "street": "100 Broadway",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10005"
+        },
+        "corporateRegistrationIndicator": true
+      },
+      "executiveInformation": [
+        {
+          "firstName": "Mike",
+          "middleName": null,
+          "lastName": "Dean",
+          "title": "President"
+        }
+      ],
+      "businessFacts": {
+        "fileEstablishedDate": "2015-03-12",
+        "fileEstablishedFlag": {
+          "code": "P",
+          "definition": "P"
+        },
+        "stateOfIncorporation": "MA",
+        "dateOfIncorporation": "01/01/1996",
+        "businessType": "Corporation",
+        "yearsInBusinessIndicator": {
+          "code": "A",
+          "definition": "Under 1 year"
+        },
+        "yearsInBusiness": 4,
+        "salesSizeCode": "B",
+        "salesRevenue": 130311000,
+        "employeeSizeCode": "A",
+        "employeeSize": 13456,
+        "locationEmployeeSizeCode": "A",
+        "locationEmployeeSize": 50,
+        "publicIndicator": false,
+        "nonProfitIndicator": false,
+        "locationSalesRevenue": "1234"
+      },
+      "corporateLinkage": [
+        {
+          "businessName": "EXPERIAN PLC",
+          "bin": "123456789",
+          "corporateLinkageType": "Ultimate Parent",
+          "matchingBusinessIndicator": true,
+          "address": {
+            "street": "475 Anton Blvd",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "country": "USA"
+          },
+          "returnLimitExceeded": false,
+          "type": "Ultimate Parent"
+        }
+      ],
+      "commercialFraudShieldSummary": {
+        "matchingBusinessIndicator": "string",
+        "activeBusinessIndicator": true,
+        "ofacMatchWarning": {
+          "code": 13,
+          "definition": "OFAC match to company name and address",
+          "detailStatement": "BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;"
+        },
+        "businessVictimStatementIndicator": true,
+        "businessRiskTriggersIndicator": true,
+        "nameAddressVerificationIndicator": true,
+        "businessRiskTriggersStatement": [
+          "string"
+        ]
+      },
+      "expandedCreditSummary": {
+        "bankruptcyCount": 0,
+        "oldestBankruptcyDate": "string",
+        "mostRecentBankruptcyDate": "string",
+        "taxLienCount": 0,
+        "oldestTaxLienDate": "string",
+        "mostRecentTaxLienDate": "string",
+        "judgmentCount": 0,
+        "oldestJudgmentDate": "string",
+        "mostRecentJudgmentDate": "string",
+        "collectionCount": 0,
+        "collectionBalance": 0,
+        "collectionCountPast24Months": 0,
+        "legalBalance": 0,
+        "uccFilings": 0,
+        "uccDerogatoryCount": 0,
+        "currentAccountBalance": 0,
+        "currentTradelineCount": 0,
+        "monthlyAverageDbt": 0,
+        "highestDbt6Months": 0,
+        "highestDbt5Quarters": 0,
+        "activeTradelineCount": 0,
+        "allTradelineBalance": 0,
+        "allTradelineCount": 0,
+        "averageBalance5Quarters": 0,
+        "singleHighCredit": 0,
+        "lowBalance6Months": 0,
+        "highBalance6Months": 0,
+        "oldestCollectionDate": "string",
+        "mostRecentCollectionDate": "string",
+        "currentDbt": 0,
+        "oldestUccDate": "string",
+        "mostRecentUccDate": "string",
+        "bankruptcyIndicator": true,
+        "judgmentIndicator": true,
+        "taxLienIndicator": true,
+        "tradeCollectionCount": 0,
+        "tradeCollectionBalance": 0,
+        "openCollectionCount": 0,
+        "openCollectionBalance": 0,
+        "ofacMatchWarning": {
+          "code": "string",
+          "definition": "string",
+          "detailStatement": "string"
+        },
+        "victimStatementIndicator": true,
+        "commercialFraudRiskIndicatorCount": 0,
+        "unsummarizedTradelineCount": 0
+      },
+      "executiveSummary": {
+        "lowestTotalAccountBalance": {
+          "amount": 0,
+          "modifier": "string"
+        },
+        "highestTotalAccountBalance": {
+          "amount": 0,
+          "modifier": "string"
+        },
+        "currentTotalAccountBalance": {
+          "amount": 0,
+          "modifier": "string"
+        },
+        "highCreditAmountExtended": 0,
+        "medianCreditAmountExtended": 0,
+        "industryDescription": "string",
+        "businessDbt": {
+          "code": 0,
+          "definition": "string"
+        },
+        "predictedDbt": 0,
+        "predictedDbtDate": "string",
+        "industryDbt": 0,
+        "allIndustryDbt": 0,
+        "industryPaymentComparison": {
+          "code": "string",
+          "definition": "string"
+        },
+        "paymentTrendIndicator": {
+          "code": "string",
+          "definition": "string"
+        },
+        "commonTerms": {
+          "first": "string",
+          "second": "string",
+          "third": "string"
+        }
+      },
+      "inquiries": [
+        {
+          "inquiryBusinessCategory": "string",
+          "inquiryCount": [
+            {
+              "month": 0,
+              "year": 0,
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "competitors": [
+        {
+          "competitorName": "string",
+          "competitorBin": "string"
+        }
+      ],
+      "proprietorNameAndAddress": [
+        {
+          "profileType": "string",
+          "profileDate": "string",
+          "proprietorName": "string",
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "9262"
+          },
+          "ssn": "string",
+          "title": "string"
+        }
+      ],
+      "uccCoDebtors": [
+        {
+          "name": "string",
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "1947"
+          },
+          "taxId": "string",
+          "sequenceNumber": 0
+        }
+      ],
+      "sicCodes": [
+        {
+          "code": "7323",
+          "definition": "CREDIT REPORTING SERVICES"
+        }
+      ],
+      "naicsCodes": [
+        {
+          "code": "561450",
+          "definition": "Credit Bureaus"
+        }
+      ],
+      "scoreInformation": {
+        "fsrScore": {
+          "publiclyHeldCompany": true,
+          "limitedProfile": true,
+          "score": 0,
+          "profileNumber": "string",
+          "modelCode": "string",
+          "modelTitle": "string",
+          "percentileRanking": 0,
+          "probability": 0,
+          "riskClass": {
+            "code": 0,
+            "definition": "string"
+          },
+          "customerDisputeIndicator": true
+        },
+        "commercialScore": {
+          "publiclyHeldCompany": true,
+          "limitedProfile": true,
+          "score": 0,
+          "profileNumber": "string",
+          "modelCode": "string",
+          "modelTitle": "string",
+          "percentileRanking": 0,
+          "probability": 0,
+          "riskClass": {
+            "code": 0,
+            "definition": "string"
+          },
+          "customerDisputeIndicator": true,
+          "customModelCode": "string",
+          "recommendedCreditLimitAmount": 0,
+          "highCreditLimitAmount": 0
+        },
+        "fsrScoreFactors": [
+          {
+            "code": "string",
+            "definition": "string"
+          }
+        ],
+        "commercialScoreFactors": [
+          {
+            "code": "string",
+            "definition": "string"
+          }
+        ],
+        "fsrScoreTrends": [
+          {
+            "quarter": "string",
+            "score": 0,
+            "industryScore": 0
+          }
+        ],
+        "commercialScoreTrends": [
+          {
+            "quarter": "string",
+            "score": 0,
+            "industryScore": 0
+          }
+        ]
+      },
+      "stockExchange": "New York Stock Exchange",
+      "fortune1000": [
+        {
+          "year": 2012,
+          "rank": 30
+        }
+      ],
+      "enhancedBusinessDescription": "string",
+      "corporateFinancialInformation": {
+        "currentDate": "string",
+        "fiscalYearEndDate": "string",
+        "balanceSheets": [
+          {
+            "yearEnd": 0,
+            "cashAndEquivalent": 0,
+            "receivablesNet": 0,
+            "inventory": 0,
+            "otherCurrentAssets": 0,
+            "totalCurrentAssets": 0,
+            "fixedAssets": 0,
+            "investments": 0,
+            "otherAssets": 0,
+            "totalAssets": 0,
+            "debtDueIn1Year": 0,
+            "notesPayable": 0,
+            "accountsPayable": 0,
+            "taxesPayable": 0,
+            "otherCurrentLiabilities": 0,
+            "totalCurrentLiabilities": 0,
+            "longTermDebt": 0,
+            "otherLiabilities": 0,
+            "netWorth": 0,
+            "totalLiabilitiesandNetWorth": 0
+          }
+        ],
+        "operatingStatements": [
+          {
+            "yearEnd": 0,
+            "netSales": 0,
+            "costOfGoodsSold": 0,
+            "grossIncomeOnSales": 0,
+            "expenses": 0,
+            "preTaxIncome": 0,
+            "taxes": 0,
+            "afterTaxes": 0,
+            "extraordinaryIncome": 0,
+            "netIncome": 0
+          }
+        ],
+        "criticalDataAndFinancialRatios": [
+          {
+            "yearEnd": 0,
+            "tangibleNetWorth": 0,
+            "netWorkingCapital": 0,
+            "currentRatio": 0,
+            "totalDebttoTangibleNetWorth": 0,
+            "currentDebtToTangibleNetWorth": 0,
+            "afterTaxIncomeToTangibleNetWorth": 0,
+            "afterTaxIncomeToNetSales": 0,
+            "netSalestoInventory": 0,
+            "costOfGoodsSoldToInventory": 0,
+            "averageDaysSalesOutstanding": 0
+          }
+        ]
+      },
+      "consumerStatement": [
+        {
+          "type": {
+            "code": "123",
+            "definition": "Definition of 123"
+          },
+          "dateReported": "string",
+          "text": "string"
+        }
+      ],
+      "commercialGovernmentEntityCode": {
+        "cageCode": "string",
+        "samNumber": 0
+      },
+      "economicDiversity": {
+        "minorityOwnedIndicator": true,
+        "womenOwnedIndicator": true,
+        "disadvantagedIndicator": true,
+        "sbaCertifiedIndicator": true,
+        "sba8aIndicator": true,
+        "hubZoneIndicator": true,
+        "veteranOwnedIndicator": true,
+        "disabledVeteranOwnedIndicator": true,
+        "historicalBlackCollegeAndUniversitiesIndicator": true
+      },
+      "governmentActivity": {
+        "congressionalDistrict": "string",
+        "contractor": "string",
+        "debarredIndicator": "string",
+        "agency": "string",
+        "exclusionType": "string",
+        "activeDate": "string",
+        "terminationDate": "string",
+        "importExportCode": "string"
+      },
+      "contractSpendingSummary": {
+        "totalDollarAmount": 0,
+        "totalNumberOfTransactions": 0,
+        "spendByFiscalYear": [
+          {
+            "year": 0,
+            "totalAmount": 0,
+            "singleHighestAmount": 0
+          }
+        ]
+      },
+      "contractSpendingDetail": [
+        {
+          "contractAction": "string",
+          "contractId": "string",
+          "programSource": "string",
+          "departmentAgency": "string",
+          "productService": "string",
+          "signedDate": "string",
+          "obligationAmount": 0,
+          "reasonForModification": "string",
+          "additionalDescription": "string",
+          "sequenceNumber": 0
+        }
+      ],
+      "leasingInformation": [
+        {
+          "leasingName": "1",
+          "address": {
+            "city": "1",
+            "state": "1",
+            "zip": "1"
+          },
+          "phone": "1",
+          "leaseCommencementDate": "1",
+          "originalLeaseAmount": 1,
+          "leaseCloseDate": "1",
+          "leaseTerm": 1,
+          "paymentsPerYear": 1,
+          "paymentInterval": "1",
+          "paymentType": "1",
+          "commentCode": "1",
+          "currentDueDate": "1",
+          "scheduledAmountDue": 1,
+          "currentBalanceAmount": 1,
+          "numberOfPaymentsOverdue": 1,
+          "paymentOverdueAmount": 1,
+          "totalRemainingBalance": 1,
+          "numberOfCurrentPayments": 1,
+          "numberOfLatePayments": 1,
+          "daysLate30": 1,
+          "daysLate60": 1,
+          "daysLate90": 1,
+          "daysLate90Plus": 1,
+          "leaseProductType": "1",
+          "leaseType": "1",
+          "leaseExtractDate": "1",
+          "customerDisputeIndicator": 1
+        }
+      ],
+      "licenseDetails": [
+        {
+          "licenseState": "1",
+          "licenseNumber": "1",
+          "licenseDateIssued": "1",
+          "licenseStatus": "1"
+        }
+      ],
+      "bondDetails": [
+        {
+          "bondAmount": 1,
+          "bondEffectiveDate": "1",
+          "bondNumber": "1",
+          "bondCompany": "1"
+        }
+      ],
+      "insuranceDetails": [
+        {
+          "insuranceEffectiveDate": "1",
+          "insuranceExpirationDate": "1"
+        }
+      ],
+      "stocks": {
+        "stockExchange": "1",
+        "tickerSymbol": "1"
+      },
+      "commercialBankInformation": [
+        {
+          "institutionType": "1",
+          "relationship": "1",
+          "institutionName": "1",
+          "address": "1",
+          "phone": "1",
+          "profileDate": "1",
+          "openDate": "1",
+          "closeDate": "1",
+          "accountRating": "1",
+          "balanceRange": "1",
+          "figuresInBalance": 1,
+          "balanceAmount": 1,
+          "customerDisputeIndicator": 1
+        }
+      ]
+    }
+  }
