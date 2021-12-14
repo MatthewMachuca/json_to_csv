@@ -1,0 +1,38 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,results_businessHeader_bin,800914632,<class 'str'>
+3,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+4,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+5,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+6,results_businessHeader_address_state,CA,<class 'str'>
+7,results_businessHeader_address_zip,92626,<class 'str'>
+8,results_businessHeader_address_zipExtension,1947,<class 'str'>
+9,results_businessHeader_phone,+19495673800,<class 'str'>
+10,results_businessHeader_taxId,176970333,<class 'str'>
+11,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+12,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+13,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+15,results_businessHeader_foreignCountry,True,<class 'bool'>
+16,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+17,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+18,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+23,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+24,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+25,results_lienSummary_lienCount,7,<class 'int'>
+26,results_lienSummary_lienBalance,25750,<class 'int'>
+27,results_lienDetail_0_dateFiled,2017-03-18,<class 'str'>
+28,results_lienDetail_0_legalType,State Tax,<class 'str'>
+29,results_lienDetail_0_legalAction,Filed,<class 'str'>
+30,results_lienDetail_0_documentNumber,2012T15358,<class 'str'>
+31,results_lienDetail_0_filingLocation,ONONDAGA COUNTY CLERKS OFFICE,<class 'str'>
+32,results_lienDetail_0_owner,STATE OF NEW YORK,<class 'str'>
+33,results_lienDetail_0_liabilityAmount,4289,<class 'int'>
+34,results_lienDetail_0_customerDisputeIndicator,True,<class 'bool'>
+35,results_lienDetail_0_taxLienDescription,AA,<class 'str'>
+36,results_lienIndicator,True,<class 'bool'>

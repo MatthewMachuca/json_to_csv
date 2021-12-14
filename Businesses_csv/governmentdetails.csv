@@ -1,0 +1,68 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,testing,<class 'str'>
+3,results_businessHeader_bin,800914632,<class 'str'>
+4,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+5,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+6,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+7,results_businessHeader_address_state,CA,<class 'str'>
+8,results_businessHeader_address_zip,92626,<class 'str'>
+9,results_businessHeader_address_zipExtension,1947,<class 'str'>
+10,results_businessHeader_phone,+19495673800,<class 'str'>
+11,results_businessHeader_taxId,176970333,<class 'str'>
+12,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+13,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+15,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+16,results_businessHeader_foreignCountry,True,<class 'bool'>
+17,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+18,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+23,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+24,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+25,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+26,results_commercialGovernmentEntityCode_cageCode,A,<class 'str'>
+27,results_commercialGovernmentEntityCode_samNumber,100,<class 'str'>
+28,results_economicDiversity_mbe,True,<class 'bool'>
+29,results_economicDiversity_wbe,True,<class 'bool'>
+30,results_economicDiversity_dbe,True,<class 'bool'>
+31,results_economicDiversity_sba8a,True,<class 'bool'>
+32,results_economicDiversity_hubzone,True,<class 'bool'>
+33,results_economicDiversity_vet,True,<class 'bool'>
+34,results_economicDiversity_dvet,True,<class 'bool'>
+35,results_economicDiversity_hbcu,True,<class 'bool'>
+36,results_economicDiversity_sdb,True,<class 'bool'>
+37,results_economicDiversity_sba,True,<class 'bool'>
+38,results_economicDiversity_lsa,True,<class 'bool'>
+39,results_governmentActivity_congressionalDistrict,Sample String Value,<class 'str'>
+40,results_governmentActivity_contractorIndicator,True,<class 'bool'>
+41,results_governmentActivity_debarredIndicator,True,<class 'bool'>
+42,results_governmentActivity_agency_code,NAVY,<class 'str'>
+43,results_governmentActivity_agency_definition,DEPARTMENT OF NAVY,<class 'str'>
+44,results_governmentActivity_exclusionType,Sample String Value,<class 'str'>
+45,results_governmentActivity_activeDate,2018-01-20,<class 'str'>
+46,results_governmentActivity_terminationDate,2018-01-20,<class 'str'>
+47,results_governmentActivity_importExportCode,A,<class 'str'>
+48,results_contractSpendingSummary_totalDollarAmount,100,<class 'int'>
+49,results_contractSpendingSummary_totalNumberOfTransactions,100,<class 'int'>
+50,results_contractSpendingSummary_currentFiscalYear_year,100,<class 'int'>
+51,results_contractSpendingSummary_currentFiscalYear_totalAmount,100,<class 'int'>
+52,results_contractSpendingSummary_currentFiscalYear_singleHighestAmount,100,<class 'int'>
+53,results_contractSpendingSummary_priorFiscalYear_0_year,100,<class 'int'>
+54,results_contractSpendingSummary_priorFiscalYear_0_totalAmount,100,<class 'int'>
+55,results_contractSpendingSummary_priorFiscalYear_0_singleHighestAmount,100,<class 'int'>
+56,results_contractSpendingDetail_0_contractAction,Sample String Value,<class 'str'>
+57,results_contractSpendingDetail_0_programSource,Sample String Value,<class 'str'>
+58,results_contractSpendingDetail_0_departmentAgency,Sample String Value,<class 'str'>
+59,results_contractSpendingDetail_0_productService,Sample String Value,<class 'str'>
+60,results_contractSpendingDetail_0_signedDate,2018-01-20,<class 'str'>
+61,results_contractSpendingDetail_0_obligationAmount,100,<class 'int'>
+62,results_contractSpendingDetail_0_reasonForModification,Sample String Value,<class 'str'>
+63,results_contractSpendingDetail_0_sequenceNumber,100,<class 'int'>
+64,results_contractAdditionalDescription_0_descriptionText,Sample String Value,<class 'str'>
+65,results_contractAdditionalDescription_0_sequenceNumber,100,<class 'int'>
+66,results_contractAdditionalDescription_0_additionalDescriptionIndicator,True,<class 'bool'>

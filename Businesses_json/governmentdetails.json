@@ -1,0 +1,103 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "testing",
+  "results": {
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    },
+    "commercialGovernmentEntityCode": {
+      "cageCode": "A",
+      "samNumber": "100"
+    },
+    "economicDiversity": {
+      "mbe": true,
+      "wbe": true,
+      "dbe": true,
+      "sba8a": true,
+      "hubzone": true,
+      "vet": true,
+      "dvet": true,
+      "hbcu": true,
+      "sdb": true,
+      "sba": true,
+      "lsa": true
+    },
+    "governmentActivity": {
+      "congressionalDistrict": "Sample String Value",
+      "contractorIndicator": true,
+      "debarredIndicator": true,
+      "agency": {
+        "code": "NAVY",
+        "definition": "DEPARTMENT OF NAVY"
+      },
+      "exclusionType": "Sample String Value",
+      "activeDate": "2018-01-20",
+      "terminationDate": "2018-01-20",
+      "importExportCode": "A"
+    },
+    "contractSpendingSummary": {
+      "totalDollarAmount": 100,
+      "totalNumberOfTransactions": 100,
+      "currentFiscalYear": {
+        "year": 100,
+        "totalAmount": 100,
+        "singleHighestAmount": 100
+      },
+      "priorFiscalYear": [
+        {
+          "year": 100,
+          "totalAmount": 100,
+          "singleHighestAmount": 100
+        }
+      ]
+    },
+    "contractSpendingDetail": [
+      {
+        "contractAction": "Sample String Value",
+        "programSource": "Sample String Value",
+        "departmentAgency": "Sample String Value",
+        "productService": "Sample String Value",
+        "signedDate": "2018-01-20",
+        "obligationAmount": 100,
+        "reasonForModification": "Sample String Value",
+        "sequenceNumber": 100
+      }
+    ],
+    "contractAdditionalDescription": [
+      {
+        "descriptionText": "Sample String Value",
+        "sequenceNumber": 100,
+        "additionalDescriptionIndicator": true
+      }
+    ]
+  }
+}

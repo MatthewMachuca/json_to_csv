@@ -1,0 +1,36 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,testing,<class 'str'>
+3,results_businessHeader_bin,800914632,<class 'str'>
+4,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+5,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+6,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+7,results_businessHeader_address_state,CA,<class 'str'>
+8,results_businessHeader_address_zip,92626,<class 'str'>
+9,results_businessHeader_address_zipExtension,1947,<class 'str'>
+10,results_businessHeader_phone,+19495673800,<class 'str'>
+11,results_businessHeader_taxId,176970333,<class 'str'>
+12,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+13,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+15,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+16,results_businessHeader_foreignCountry,True,<class 'bool'>
+17,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+18,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+23,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+24,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+25,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+26,results_matchingBusinessAddress,Primary Business,<class 'str'>
+27,results_activeBusinessIndicator,True,<class 'bool'>
+28,results_ofacMatchWarning_code,13,<class 'int'>
+29,results_ofacMatchWarning_definition,OFAC match to company name and address,<class 'str'>
+30,results_ofacMatchWarning_detailStatement,"BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;",<class 'str'>
+31,results_businessVictimStatementIndicator,True,<class 'bool'>
+32,results_businessRiskTriggersIndicator,True,<class 'bool'>
+33,results_businessRiskTriggersStatement,BUSINESS ADDRESS IDENTIFIED AS RESIDENTIAL,<class 'str'>
+34,results_nameAddressVerificationIndicator,True,<class 'bool'>

@@ -1,0 +1,82 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,abcde12345,<class 'str'>
+3,results_businessHeader_bin,800914632,<class 'str'>
+4,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+5,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+6,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+7,results_businessHeader_address_state,CA,<class 'str'>
+8,results_businessHeader_address_zip,92626,<class 'str'>
+9,results_businessHeader_address_zipExtension,1947,<class 'str'>
+10,results_businessHeader_phone,+19495673800,<class 'str'>
+11,results_businessHeader_taxId,176970333,<class 'str'>
+12,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+13,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+15,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+16,results_businessHeader_foreignCountry,True,<class 'bool'>
+17,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+18,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+23,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+24,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+25,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+26,results_commercialScore_modelCode,000254,<class 'str'>
+27,results_commercialScore_modelTitle,INTELLISCORE PLUS V3 ML,<class 'str'>
+28,results_commercialScore_customModelCode,02,<class 'str'>
+29,results_commercialScore_score,11,<class 'int'>
+30,results_commercialScore_percentileRanking,10,<class 'int'>
+31,results_commercialScore_recommendedCreditLimitAmount,206400,<class 'int'>
+32,results_commercialScore_riskClass_code,4,<class 'int'>
+33,results_commercialScore_riskClass_definition,MEDIUM TO HIGH RISK,<class 'str'>
+34,results_commercialScoreFactors_0_code,033,<class 'str'>
+35,results_commercialScoreFactors_0_definition,NUMBER OF COMMERCIAL ACCOUNTS THAT ARE CURRENT,<class 'str'>
+36,results_commercialScoreTrends_0_quarter,DEC-FEB,<class 'str'>
+37,results_commercialScoreTrends_0_score,8,<class 'int'>
+38,results_fsrScore_modelCode,string,<class 'str'>
+39,results_fsrScore_modelTitle,string,<class 'str'>
+40,results_fsrScore_score,0,<class 'int'>
+41,results_fsrScore_percentileRanking,0,<class 'int'>
+42,results_fsrScore_recommendedCreditLimitAmount,206400,<class 'int'>
+43,results_fsrScore_riskClass_code,1,<class 'int'>
+44,results_fsrScore_riskClass_definition,Low Risk,<class 'str'>
+45,results_fsrScoreFactors_0_code,string,<class 'str'>
+46,results_fsrScoreFactors_0_definition,string,<class 'str'>
+47,results_fsrScoreTrends_0_quarter,string,<class 'str'>
+48,results_fsrScoreTrends_0_score,0,<class 'int'>
+49,results_listOfSimilars_0_bin,800914632,<class 'str'>
+50,results_listOfSimilars_0_reliabilityCode,91.02,<class 'float'>
+51,results_listOfSimilars_0_businessName,EXPERIAN,<class 'str'>
+52,results_listOfSimilars_0_phone,+17148307000,<class 'str'>
+53,results_listOfSimilars_0_address_street,535 ANTON BLVD,<class 'str'>
+54,results_listOfSimilars_0_address_city,Costa Mesa,<class 'str'>
+55,results_listOfSimilars_0_address_state,CA,<class 'str'>
+56,results_listOfSimilars_0_address_zip,92626,<class 'str'>
+57,results_listOfSimilars_0_address_zipExtension,9262,<class 'str'>
+58,results_listOfSimilars_0_numberOfTradelines,62,<class 'int'>
+59,results_listOfSimilars_0_financialStatementIndicator,True,<class 'bool'>
+60,results_listOfSimilars_0_keyFactsIndicator,True,<class 'bool'>
+61,results_listOfSimilars_0_inquiryIndicator,True,<class 'bool'>
+62,results_listOfSimilars_0_bankDataIndicator,True,<class 'bool'>
+63,results_listOfSimilars_0_governmentDataIndicator,True,<class 'bool'>
+64,results_listOfSimilars_0_executiveSummaryIndicator,True,<class 'bool'>
+65,results_listOfSimilars_0_uccIndicator,True,<class 'bool'>
+66,results_listOfSimilars_0_matchingNameAndAddress_businessName,EXPERIAN,<class 'str'>
+67,results_listOfSimilars_0_matchingNameAndAddress_address_street,535 ANTON BLVD,<class 'str'>
+68,results_listOfSimilars_0_matchingNameAndAddress_address_city,Costa Mesa,<class 'str'>
+69,results_listOfSimilars_0_matchingNameAndAddress_address_state,CA,<class 'str'>
+70,results_listOfSimilars_0_matchingNameAndAddress_address_zip,92626,<class 'str'>
+71,results_listOfSimilars_0_matchingNameAndAddress_address_zipExtension,9262,<class 'str'>
+72,results_listOfSimilars_0_businessGeocode_latitudeLongitudeLevel,Roof Top Level,<class 'str'>
+73,results_listOfSimilars_0_businessGeocode_latitude,33.690764,<class 'float'>
+74,results_listOfSimilars_0_businessGeocode_longitude,-117.873551,<class 'float'>
+75,results_listOfSimilars_0_businessGeocode_msaCode,5945,<class 'str'>
+76,results_listOfSimilars_0_businessGeocode_censusBlkGrpCode,2,<class 'str'>
+77,results_listOfSimilars_0_businessGeocode_censusTractCode,063907,<class 'str'>
+78,results_listOfSimilars_0_businessGeocode_cottageIndicator,True,<class 'bool'>
+79,results_listOfSimilars_0_businessGeocode_congressionalDistrictCode,48,<class 'str'>
+80,results_listOfSimilars_0_businessGeocode_dateLastReported,01/01/1977,<class 'str'>

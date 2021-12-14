@@ -1,0 +1,372 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,testing,<class 'str'>
+3,results_businessHeader_bin,800914632,<class 'str'>
+4,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+5,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+6,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+7,results_businessHeader_address_state,CA,<class 'str'>
+8,results_businessHeader_address_zip,92626,<class 'str'>
+9,results_businessHeader_address_zipExtension,1947,<class 'str'>
+10,results_businessHeader_phone,+19495673800,<class 'str'>
+11,results_businessHeader_taxId,176970333,<class 'str'>
+12,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+13,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+15,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+16,results_businessHeader_foreignCountry,True,<class 'bool'>
+17,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+18,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+23,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+24,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+25,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+26,results_businessFacts_sicCodes_0_code,7323,<class 'str'>
+27,results_businessFacts_sicCodes_0_definition,CREDIT REPORTING SERVICES,<class 'str'>
+28,results_businessFacts_naicsCodes_0_code,561450,<class 'str'>
+29,results_businessFacts_naicsCodes_0_definition,Credit Bureaus,<class 'str'>
+30,results_businessFacts_publicIndicator,True,<class 'bool'>
+31,results_businessFacts_tickerSymbol,EXP,<class 'str'>
+32,results_businessFacts_stockExchange,"Experian Consumer Direct, Inc.",<class 'str'>
+33,results_businessFacts_nonProfitIndicator,True,<class 'bool'>
+34,results_businessFacts_yearsOnFile,21,<class 'int'>
+35,results_businessFacts_stateOfIncorporation,MA,<class 'str'>
+36,results_businessFacts_dateOfIncorporation,01/01/1996,<class 'str'>
+37,results_businessFacts_businessType,Corporation,<class 'str'>
+38,results_businessFacts_employeeSize,13456,<class 'int'>
+39,results_businessFacts_employeeSizeCode,A,<class 'str'>
+40,results_businessFacts_salesRevenue,130311000,<class 'int'>
+41,results_businessFacts_salesSizeCode,B,<class 'str'>
+42,results_businessFacts_fortune1000_year,0,<class 'int'>
+43,results_businessFacts_fortune1000_rank,0,<class 'int'>
+44,results_businessFacts_corporateLinkageType,Headquarters/Parent,<class 'str'>
+45,results_businessFacts_executiveInformation_0_firstName,Mike,<class 'str'>
+46,results_businessFacts_executiveInformation_0_middleName,,<class 'NoneType'>
+47,results_businessFacts_executiveInformation_0_lastName,Dean,<class 'str'>
+48,results_businessFacts_executiveInformation_0_title,President,<class 'str'>
+49,results_businessContacts_individualOwnersAndPrincipals_0_dateReported,2014-12-27,<class 'str'>
+50,results_businessContacts_individualOwnersAndPrincipals_0_currentOwnerIndicator,True,<class 'bool'>
+51,results_businessContacts_individualOwnersAndPrincipals_0_firstName,John,<class 'str'>
+52,results_businessContacts_individualOwnersAndPrincipals_0_middleName,Davison,<class 'str'>
+53,results_businessContacts_individualOwnersAndPrincipals_0_lastName,Rockefeller,<class 'str'>
+54,results_businessContacts_individualOwnersAndPrincipals_0_generationCode,JR,<class 'str'>
+55,results_businessContacts_individualOwnersAndPrincipals_0_emailAddress,john.doe@genericcompany.com,<class 'str'>
+56,results_businessContacts_individualOwnersAndPrincipals_0_ownerIsGuarantorIndicator,True,<class 'bool'>
+57,results_businessContacts_individualOwnersAndPrincipals_0_address_street,535 ANTON BLVD,<class 'str'>
+58,results_businessContacts_individualOwnersAndPrincipals_0_address_city,Costa Mesa,<class 'str'>
+59,results_businessContacts_individualOwnersAndPrincipals_0_address_state,CA,<class 'str'>
+60,results_businessContacts_individualOwnersAndPrincipals_0_address_zip,92626,<class 'str'>
+61,results_businessContacts_individualOwnersAndPrincipals_0_address_zipExtension,1947,<class 'str'>
+62,results_businessContacts_individualOwnersAndPrincipals_0_percentOfFinancialObligation,58,<class 'int'>
+63,results_businessContacts_individualOwnersAndPrincipals_0_nameAddressChangeIndicator,True,<class 'bool'>
+64,results_businessContacts_companyOwnersAndPrincipals_0_dateReported,2014-12-27,<class 'str'>
+65,results_businessContacts_companyOwnersAndPrincipals_0_currentOwnerIndicator,True,<class 'bool'>
+66,results_businessContacts_companyOwnersAndPrincipals_0_businessName,Bob Inc,<class 'str'>
+67,results_businessContacts_companyOwnersAndPrincipals_0_taxId,XXXXX4185,<class 'str'>
+68,results_businessContacts_companyOwnersAndPrincipals_0_taxIdType_code,1,<class 'str'>
+69,results_businessContacts_companyOwnersAndPrincipals_0_taxIdType_definition,Federal Tax ID,<class 'str'>
+70,results_businessContacts_companyOwnersAndPrincipals_0_address_street,535 ANTON BLVD,<class 'str'>
+71,results_businessContacts_companyOwnersAndPrincipals_0_address_city,Costa Mesa,<class 'str'>
+72,results_businessContacts_companyOwnersAndPrincipals_0_address_state,CA,<class 'str'>
+73,results_businessContacts_companyOwnersAndPrincipals_0_address_zip,92626,<class 'str'>
+74,results_businessContacts_companyOwnersAndPrincipals_0_address_zipExtension,1947,<class 'str'>
+75,results_businessContacts_companyOwnersAndPrincipals_0_phone,8654065312,<class 'str'>
+76,results_businessContacts_companyOwnersAndPrincipals_0_percentOfFinancialObligation,58,<class 'int'>
+77,results_businessContacts_companyOwnersAndPrincipals_0_nameAddressChangeIndicator,True,<class 'bool'>
+78,results_businessContacts_companyOwnersAndPrincipals_0_ownerIsGuarantorIndicator,True,<class 'bool'>
+79,results_businessContacts_contactsAndTitles_0_sequenceNumber,1,<class 'int'>
+80,results_businessContacts_contactsAndTitles_0_cid,9081024576,<class 'str'>
+81,results_businessContacts_contactsAndTitles_0_title,CEO,<class 'str'>
+82,results_businessContacts_contactsAndTitles_0_contactActivityIndicator,True,<class 'bool'>
+83,results_businessContacts_contactsAndTitles_0_contactSupplier,Experian,<class 'str'>
+84,results_businessContacts_contactsAndTitles_0_firstName,Jon,<class 'str'>
+85,results_businessContacts_contactsAndTitles_0_middleName,Jon,<class 'str'>
+86,results_businessContacts_contactsAndTitles_0_lastName,Consumer,<class 'str'>
+87,results_businessContacts_contactsBusinessAffiliations_0_sequenceNumber,1,<class 'int'>
+88,results_businessContacts_contactsBusinessAffiliations_0_cid,9081024576,<class 'str'>
+89,results_businessContacts_contactsBusinessAffiliations_0_title,CEO,<class 'str'>
+90,results_businessContacts_contactsBusinessAffiliations_0_contactActivityIndicator,True,<class 'bool'>
+91,results_businessContacts_contactsBusinessAffiliations_0_contactSupplier,Experian,<class 'str'>
+92,results_businessContacts_contactsBusinessAffiliations_0_firstName,Jon,<class 'str'>
+93,results_businessContacts_contactsBusinessAffiliations_0_middleName,Jon,<class 'str'>
+94,results_businessContacts_contactsBusinessAffiliations_0_lastName,Consumer,<class 'str'>
+95,results_businessContacts_contactsBusinessAffiliations_0_bin,800914632,<class 'str'>
+96,results_businessContacts_contactsBusinessAffiliations_0_businessName,Experian,<class 'str'>
+97,results_businessContacts_contactsBusinessAffiliations_0_address_street,535 ANTON BLVD,<class 'str'>
+98,results_businessContacts_contactsBusinessAffiliations_0_address_city,Costa Mesa,<class 'str'>
+99,results_businessContacts_contactsBusinessAffiliations_0_address_state,CA,<class 'str'>
+100,results_businessContacts_contactsBusinessAffiliations_0_address_zip,92626,<class 'str'>
+101,results_businessContacts_contactsBusinessAffiliations_0_address_zipExtension,1947,<class 'str'>
+102,results_corporateRegistration_stateOfOrigin,CA,<class 'str'>
+103,results_corporateRegistration_legalName,"XYZ, INC.",<class 'str'>
+104,results_corporateRegistration_charterNumber,042147607,<class 'str'>
+105,results_corporateRegistration_originalFilingDate,2017-07-15,<class 'str'>
+106,results_corporateRegistration_recentFilingDate,2017-07-15,<class 'str'>
+107,results_corporateRegistration_incorporatedDate,1973-01-20,<class 'str'>
+108,results_corporateRegistration_businessType,LLC,<class 'str'>
+109,results_corporateRegistration_statusFlag,Active,<class 'str'>
+110,results_corporateRegistration_statusDescription,Good standing,<class 'str'>
+111,results_corporateRegistration_profitFlag,Profit,<class 'str'>
+112,results_corporateRegistration_existenceTermYears,3,<class 'int'>
+113,results_corporateRegistration_existenceTermDate,2025-12-31,<class 'str'>
+114,results_corporateRegistration_federalTaxId,135006789,<class 'str'>
+115,results_corporateRegistration_stateTaxId,NY100199938,<class 'str'>
+116,results_corporateRegistration_domesticForeignIndicator,Domestic filing state,<class 'str'>
+117,results_corporateRegistration_agentName,John Doe,<class 'str'>
+118,results_corporateRegistration_agentAddress_street,100 Broadway,<class 'str'>
+119,results_corporateRegistration_agentAddress_city,New York,<class 'str'>
+120,results_corporateRegistration_agentAddress_state,NY,<class 'str'>
+121,results_corporateRegistration_agentAddress_zip,10005,<class 'str'>
+122,results_corporateRegistration_corporateRegistrationIndicator,True,<class 'bool'>
+123,results_bankruptcySummary_bankruptcyIndicator,True,<class 'bool'>
+124,results_bankruptcySummary_bankruptcyCount,5,<class 'int'>
+125,results_bankruptcyDetail_0_dateFiled,{},<class 'dict'>
+126,results_bankruptcyDetail_0_legalType,BANKRUPTCY,<class 'str'>
+127,results_bankruptcyDetail_0_legalAction,CHAPTER 11,<class 'str'>
+128,results_bankruptcyDetail_0_documentNumber,1511878,<class 'str'>
+129,results_bankruptcyDetail_0_filingLocation,DELAWARE FEDERAL BANK COURT-WILMINGTON,<class 'str'>
+130,results_bankruptcyDetail_0_owner,CROCKER INDUSTRIES,<class 'str'>
+131,results_bankruptcyDetail_0_customerDisputeIndicator,1,<class 'int'>
+132,results_bankruptcyDetail_0_liabilityAmount,1,<class 'int'>
+133,results_bankruptcyDetail_0_assetAmount,1,<class 'int'>
+134,results_bankruptcyDetail_0_exemptAmount,1,<class 'int'>
+135,results_corporateLinkagePartial_0_corporateLinkageType,Ultimate Parent,<class 'str'>
+136,results_corporateLinkagePartial_0_bin,800914632,<class 'str'>
+137,results_corporateLinkagePartial_0_businessName,EXPERIAN PLC,<class 'str'>
+138,results_corporateLinkagePartial_0_address_street,475 Anton Blvd,<class 'str'>
+139,results_corporateLinkagePartial_0_address_city,Costa Mesa,<class 'str'>
+140,results_corporateLinkagePartial_0_address_state,CA,<class 'str'>
+141,results_corporateLinkagePartial_0_address_country,USA,<class 'str'>
+142,results_corporateLinkagePartial_0_matchingBusinessIndicator,True,<class 'bool'>
+143,results_corporateLinkagePartial_0_returnLimitExceeded,True,<class 'bool'>
+144,results_corporateLinkageFull_corporateLinkagePartial_0_corporateLinkageType,Ultimate Parent,<class 'str'>
+145,results_corporateLinkageFull_corporateLinkagePartial_0_bin,800914632,<class 'str'>
+146,results_corporateLinkageFull_corporateLinkagePartial_0_businessName,EXPERIAN PLC,<class 'str'>
+147,results_corporateLinkageFull_corporateLinkagePartial_0_address_street,475 Anton Blvd,<class 'str'>
+148,results_corporateLinkageFull_corporateLinkagePartial_0_address_city,Costa Mesa,<class 'str'>
+149,results_corporateLinkageFull_corporateLinkagePartial_0_address_state,CA,<class 'str'>
+150,results_corporateLinkageFull_corporateLinkagePartial_0_address_country,USA,<class 'str'>
+151,results_corporateLinkageFull_corporateLinkagePartial_0_ultimateBin,800914632,<class 'str'>
+152,results_corporateLinkageFull_corporateLinkagePartial_0_parentBin,800914632,<class 'str'>
+153,results_corporateLinkageFull_corporateLinkagePartial_0_ultimateParentIndicator,True,<class 'bool'>
+154,results_corporateLinkageFull_corporateLinkagePartial_0_parentIndicator,True,<class 'bool'>
+155,results_corporateLinkageFull_corporateLinkagePartial_0_subsidiaryIndicator,True,<class 'bool'>
+156,results_corporateLinkageFull_corporateLinkagePartial_0_linkageLevel,1,<class 'int'>
+157,results_corporateLinkageFull_corporateLinkagePartial_0_branchIndicator,True,<class 'bool'>
+158,results_corporateLinkageFull_corporateLinkagePartial_0_activityIndicator,True,<class 'bool'>
+159,results_corporateLinkageFull_corporateLinkagePartial_0_commercialRiskClass,High Risk,<class 'str'>
+160,results_fsrScore_modelCode,string,<class 'str'>
+161,results_fsrScore_modelTitle,string,<class 'str'>
+162,results_fsrScore_score,0,<class 'int'>
+163,results_fsrScore_percentileRanking,0,<class 'int'>
+164,results_fsrScore_recommendedCreditLimitAmount,206400,<class 'int'>
+165,results_fsrScore_riskClass_code,1,<class 'int'>
+166,results_fsrScore_riskClass_definition,Low Risk,<class 'str'>
+167,results_judgmentSummary_judgmentCount,0,<class 'int'>
+168,results_judgmentSummary_judgmentBalance,0,<class 'int'>
+169,results_judgmentDetail_0_dateFiled,2021-12-14,<class 'str'>
+170,results_judgmentDetail_0_legalType,string,<class 'str'>
+171,results_judgmentDetail_0_legalAction,string,<class 'str'>
+172,results_judgmentDetail_0_documentNumber,string,<class 'str'>
+173,results_judgmentDetail_0_filingLocation,string,<class 'str'>
+174,results_judgmentDetail_0_owner,string,<class 'str'>
+175,results_judgmentDetail_0_liabilityAmount,0,<class 'int'>
+176,results_judgmentDetail_0_plaintiffName,string,<class 'str'>
+177,results_judgmentDetail_0_customerDisputeIndicator,True,<class 'bool'>
+178,results_lienSummary_lienCount,7,<class 'int'>
+179,results_lienSummary_lienBalance,25750,<class 'int'>
+180,results_lienDetail_0_dateFiled,2017-03-18,<class 'str'>
+181,results_lienDetail_0_legalType,State Tax,<class 'str'>
+182,results_lienDetail_0_legalAction,Filed,<class 'str'>
+183,results_lienDetail_0_documentNumber,2012T15358,<class 'str'>
+184,results_lienDetail_0_filingLocation,ONONDAGA COUNTY CLERKS OFFICE,<class 'str'>
+185,results_lienDetail_0_owner,STATE OF NEW YORK,<class 'str'>
+186,results_lienDetail_0_liabilityAmount,4289,<class 'int'>
+187,results_lienDetail_0_customerDisputeIndicator,True,<class 'bool'>
+188,results_lienDetail_0_taxLienDescription,AA,<class 'str'>
+189,results_commercialFraudShieldSummary_matchingBusinessIndicator,string,<class 'str'>
+190,results_commercialFraudShieldSummary_activeBusinessIndicator,True,<class 'bool'>
+191,results_commercialFraudShieldSummary_ofacMatchWarning_code,13,<class 'int'>
+192,results_commercialFraudShieldSummary_ofacMatchWarning_definition,OFAC match to company name and address,<class 'str'>
+193,results_commercialFraudShieldSummary_ofacMatchWarning_detailStatement,"BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;",<class 'str'>
+194,results_commercialFraudShieldSummary_businessVictimStatementIndicator,True,<class 'bool'>
+195,results_commercialFraudShieldSummary_businessRiskTriggersIndicator,True,<class 'bool'>
+196,results_commercialFraudShieldSummary_nameAddressVerificationIndicator,True,<class 'bool'>
+197,results_commercialFraudShieldSummary_businessRiskTriggersStatement_0,string,<class 'str'>
+198,results_governmentDetails_commercialGovernmentEntityCode_cageCode,A,<class 'str'>
+199,results_governmentDetails_commercialGovernmentEntityCode_samNumber,100,<class 'str'>
+200,results_governmentDetails_economicDiversity_mbe,True,<class 'bool'>
+201,results_governmentDetails_economicDiversity_wbe,True,<class 'bool'>
+202,results_governmentDetails_economicDiversity_dbe,True,<class 'bool'>
+203,results_governmentDetails_economicDiversity_sba8a,True,<class 'bool'>
+204,results_governmentDetails_economicDiversity_hubzone,True,<class 'bool'>
+205,results_governmentDetails_economicDiversity_vet,True,<class 'bool'>
+206,results_governmentDetails_economicDiversity_dvet,True,<class 'bool'>
+207,results_governmentDetails_economicDiversity_hbcu,True,<class 'bool'>
+208,results_governmentDetails_economicDiversity_sdb,True,<class 'bool'>
+209,results_governmentDetails_economicDiversity_sba,True,<class 'bool'>
+210,results_governmentDetails_economicDiversity_lsa,True,<class 'bool'>
+211,results_governmentDetails_governmentActivity_congressionalDistrict,Sample String Value,<class 'str'>
+212,results_governmentDetails_governmentActivity_contractorIndicator,True,<class 'bool'>
+213,results_governmentDetails_governmentActivity_debarredIndicator,True,<class 'bool'>
+214,results_governmentDetails_governmentActivity_agency_code,NAVY,<class 'str'>
+215,results_governmentDetails_governmentActivity_agency_definition,DEPARTMENT OF NAVY,<class 'str'>
+216,results_governmentDetails_governmentActivity_exclusionType,Sample String Value,<class 'str'>
+217,results_governmentDetails_governmentActivity_activeDate,2018-01-20,<class 'str'>
+218,results_governmentDetails_governmentActivity_terminationDate,2018-01-20,<class 'str'>
+219,results_governmentDetails_governmentActivity_importExportCode,A,<class 'str'>
+220,results_governmentDetails_contractSpendingSummary_totalDollarAmount,100,<class 'int'>
+221,results_governmentDetails_contractSpendingSummary_totalNumberOfTransactions,100,<class 'int'>
+222,results_governmentDetails_contractSpendingSummary_currentFiscalYear_year,100,<class 'int'>
+223,results_governmentDetails_contractSpendingSummary_currentFiscalYear_totalAmount,100,<class 'int'>
+224,results_governmentDetails_contractSpendingSummary_currentFiscalYear_singleHighestAmount,100,<class 'int'>
+225,results_governmentDetails_contractSpendingSummary_priorFiscalYear_0_year,100,<class 'int'>
+226,results_governmentDetails_contractSpendingSummary_priorFiscalYear_0_totalAmount,100,<class 'int'>
+227,results_governmentDetails_contractSpendingSummary_priorFiscalYear_0_singleHighestAmount,100,<class 'int'>
+228,results_governmentDetails_contractSpendingDetail_0_contractAction,Sample String Value,<class 'str'>
+229,results_governmentDetails_contractSpendingDetail_0_programSource,Sample String Value,<class 'str'>
+230,results_governmentDetails_contractSpendingDetail_0_departmentAgency,Sample String Value,<class 'str'>
+231,results_governmentDetails_contractSpendingDetail_0_productService,Sample String Value,<class 'str'>
+232,results_governmentDetails_contractSpendingDetail_0_signedDate,2018-01-20,<class 'str'>
+233,results_governmentDetails_contractSpendingDetail_0_obligationAmount,100,<class 'int'>
+234,results_governmentDetails_contractSpendingDetail_0_reasonForModification,Sample String Value,<class 'str'>
+235,results_governmentDetails_contractSpendingDetail_0_sequenceNumber,100,<class 'int'>
+236,results_governmentDetails_contractAdditionalDescription_0_descriptionText,Sample String Value,<class 'str'>
+237,results_governmentDetails_contractAdditionalDescription_0_sequenceNumber,100,<class 'int'>
+238,results_governmentDetails_contractAdditionalDescription_0_additionalDescriptionIndicator,True,<class 'bool'>
+239,results_fsrScoreFactors_0_code,string,<class 'str'>
+240,results_fsrScoreFactors_0_definition,string,<class 'str'>
+241,results_fsrScoreTrends_0_quarter,string,<class 'str'>
+242,results_fsrScoreTrends_0_score,0,<class 'int'>
+243,results_departmentOfJusticeSearch_results_itemList_item_0_id,123,<class 'str'>
+244,results_departmentOfJusticeSearch_results_itemList_item_0_name,123,<class 'str'>
+245,results_departmentOfJusticeSearch_results_itemList_item_0_url,123,<class 'str'>
+246,results_departmentOfJusticeSearch_results_itemList_item_0_displayUrl,123,<class 'str'>
+247,results_departmentOfJusticeSearch_results_itemList_item_0_snippet,123,<class 'str'>
+248,results_departmentOfJusticeSearch_results_itemList_item_0_dateLastCrawled,123,<class 'str'>
+249,results_departmentOfJusticeSearch_responseMessage,test,<class 'str'>
+250,results_reverseTaxId_0_sequenceNumber,1,<class 'int'>
+251,results_reverseTaxId_0_bin,800914632,<class 'str'>
+252,results_reverseTaxId_0_businessName,"IDC, CORP",<class 'str'>
+253,results_reverseTaxId_0_address_street,535 ANTON BLVD,<class 'str'>
+254,results_reverseTaxId_0_address_city,Costa Mesa,<class 'str'>
+255,results_reverseTaxId_0_address_state,CA,<class 'str'>
+256,results_reverseTaxId_0_address_zip,92626,<class 'str'>
+257,results_reverseTaxId_0_address_zipExtension,1947,<class 'str'>
+258,results_reverseTaxId_0_binEstablishDate,1988-09-27,<class 'str'>
+259,results_reverseTaxId_0_binActivityCode,A,<class 'str'>
+260,results_reverseTaxId_0_binDateLastReported,2006-09-26,<class 'str'>
+261,results_reversePhone_0_sequenceNumber,1,<class 'int'>
+262,results_reversePhone_0_bin,800914632,<class 'str'>
+263,results_reversePhone_0_businessName,"IDC, CORP",<class 'str'>
+264,results_reversePhone_0_address_street,535 ANTON BLVD,<class 'str'>
+265,results_reversePhone_0_address_city,Costa Mesa,<class 'str'>
+266,results_reversePhone_0_address_state,CA,<class 'str'>
+267,results_reversePhone_0_address_zip,92626,<class 'str'>
+268,results_reversePhone_0_address_zipExtension,1947,<class 'str'>
+269,results_reversePhone_0_binEstablishDate,1988-09-27,<class 'str'>
+270,results_reversePhone_0_binActivityCode,A,<class 'str'>
+271,results_reversePhone_0_binDateLastReported,2006-09-26,<class 'str'>
+272,results_reverseAddress_0_sequenceNumber,1,<class 'int'>
+273,results_reverseAddress_0_bin,800914632,<class 'str'>
+274,results_reverseAddress_0_businessName,"DSG BENEFITS GROUP, LLC",<class 'str'>
+275,results_reverseAddress_0_address_street,535 ANTON BLVD,<class 'str'>
+276,results_reverseAddress_0_address_city,Costa Mesa,<class 'str'>
+277,results_reverseAddress_0_address_state,CA,<class 'str'>
+278,results_reverseAddress_0_address_zip,92626,<class 'str'>
+279,results_reverseAddress_0_address_zipExtension,1947,<class 'str'>
+280,results_reverseAddress_0_binEstablishDate,12/16/2013,<class 'str'>
+281,results_reverseAddress_0_binActivityCode,A,<class 'str'>
+282,results_reverseAddress_0_binDateLastReported,06/09/2016,<class 'str'>
+283,results_betterBusinessBureauRating_responseMessage,test,<class 'str'>
+284,results_betterBusinessBureauRating_totalResults,10,<class 'str'>
+285,results_betterBusinessBureauRating_pageNumber,12,<class 'str'>
+286,results_betterBusinessBureauRating_searchResults_itemList_item_businessId,123,<class 'str'>
+287,results_betterBusinessBureauRating_searchResults_itemList_item_organizationType,123,<class 'str'>
+288,results_betterBusinessBureauRating_searchResults_itemList_item_organizationName,123,<class 'str'>
+289,results_betterBusinessBureauRating_searchResults_itemList_item_isBBBAccredited,123,<class 'str'>
+290,results_betterBusinessBureauRating_searchResults_itemList_item_ratingIcons_itemList_item_0_url,123,<class 'str'>
+291,results_betterBusinessBureauRating_searchResults_itemList_item_ratingIcons_itemList_item_0_deviceType,123,<class 'str'>
+292,results_betterBusinessBureauRating_searchResults_itemList_item_isReportable,123,<class 'str'>
+293,results_betterBusinessBureauRating_searchResults_itemList_item_primaryCategory,123,<class 'str'>
+294,results_betterBusinessBureauRating_searchResults_itemList_item_contactFirstName,123,<class 'str'>
+295,results_betterBusinessBureauRating_searchResults_itemList_item_contactLastName,123,<class 'str'>
+296,results_betterBusinessBureauRating_searchResults_itemList_item_contactTitle,123,<class 'str'>
+297,results_betterBusinessBureauRating_searchResults_itemList_item_dateBusinessStarted,123,<class 'str'>
+298,results_betterBusinessBureauRating_searchResults_itemList_item_address,123,<class 'str'>
+299,results_betterBusinessBureauRating_searchResults_itemList_item_city,123,<class 'str'>
+300,results_betterBusinessBureauRating_searchResults_itemList_item_stateProvince,123,<class 'str'>
+301,results_betterBusinessBureauRating_searchResults_itemList_item_postalCode,123,<class 'str'>
+302,results_betterBusinessBureauRating_searchResults_itemList_item_reportURL,123,<class 'str'>
+303,results_betterBusinessBureauRating_searchResults_itemList_item_organizationLastChanged,123,<class 'str'>
+304,results_betterBusinessBureauRating_searchResults_itemList_item_ratingLastChanged,123,<class 'str'>
+305,results_betterBusinessBureauRating_searchResults_itemList_item_contactPrefix,123,<class 'str'>
+306,results_fraudShield_matchingBusinessAddress,Primary Business,<class 'str'>
+307,results_fraudShield_activeBusinessIndicator,True,<class 'bool'>
+308,results_fraudShield_ofacMatchWarning_code,13,<class 'int'>
+309,results_fraudShield_ofacMatchWarning_definition,OFAC match to company name and address,<class 'str'>
+310,results_fraudShield_ofacMatchWarning_detailStatement,"BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;",<class 'str'>
+311,results_fraudShield_businessVictimStatementIndicator,True,<class 'bool'>
+312,results_fraudShield_businessRiskTriggersIndicator,True,<class 'bool'>
+313,results_fraudShield_businessRiskTriggersStatement,BUSINESS ADDRESS IDENTIFIED AS RESIDENTIAL,<class 'str'>
+314,results_fraudShield_nameAddressVerificationIndicator,True,<class 'bool'>
+315,results_istWatch_0_ofacWatchlist_0_addNum,test,<class 'str'>
+316,results_istWatch_0_ofacWatchlist_0_addRemarks,10,<class 'str'>
+317,results_istWatch_0_ofacWatchlist_0_name,12,<class 'str'>
+318,results_istWatch_0_ofacWatchlist_0_nameSearchKey,test,<class 'str'>
+319,results_istWatch_0_ofacWatchlist_0_street,10,<class 'str'>
+320,results_istWatch_0_ofacWatchlist_0_state,12,<class 'str'>
+321,results_istWatch_0_ofacWatchlist_0_city,test,<class 'str'>
+322,results_istWatch_0_ofacWatchlist_0_postalCode,10,<class 'str'>
+323,results_istWatch_0_ofacWatchlist_0_phone,12,<class 'str'>
+324,results_istWatch_0_ofacWatchlist_0_country,test,<class 'str'>
+325,results_istWatch_0_ofacWatchlist_0_callSign,10,<class 'str'>
+326,results_istWatch_0_ofacWatchlist_0_dateEntered,12,<class 'str'>
+327,results_istWatch_0_ofacWatchlist_0_dupId,test,<class 'str'>
+328,results_istWatch_0_ofacWatchlist_0_effectiveDate,10,<class 'str'>
+329,results_istWatch_0_ofacWatchlist_0_errorDesc,12,<class 'str'>
+330,results_istWatch_0_ofacWatchlist_0_expirationDate,test,<class 'str'>
+331,results_istWatch_0_ofacWatchlist_0_id,10,<class 'str'>
+332,results_istWatch_0_ofacWatchlist_0_memo,12,<class 'str'>
+333,results_istWatch_0_ofacWatchlist_0_program,test,<class 'str'>
+334,results_istWatch_0_ofacWatchlist_0_returnCodes,10,<class 'str'>
+335,results_istWatch_0_ofacWatchlist_0_score,12,<class 'str'>
+336,results_istWatch_0_ofacWatchlist_0_searchesLeft,test,<class 'str'>
+337,results_istWatch_0_ofacWatchlist_0_standardOrder,10,<class 'str'>
+338,results_istWatch_0_ofacWatchlist_0_title,12,<class 'str'>
+339,results_istWatch_0_ofacWatchlist_0_tonnage,12,<class 'str'>
+340,results_istWatch_0_ofacWatchlist_0_vessFlag,test,<class 'str'>
+341,results_istWatch_0_ofacWatchlist_0_vessOwner,10,<class 'str'>
+342,results_istWatch_0_ofacWatchlist_0_vessType,12,<class 'str'>
+343,results_istWatch_0_dpvWatchlist_0_addNum,test,<class 'str'>
+344,results_istWatch_0_dpvWatchlist_0_addRemarks,10,<class 'str'>
+345,results_istWatch_0_dpvWatchlist_0_name,12,<class 'str'>
+346,results_istWatch_0_dpvWatchlist_0_nameSearchKey,test,<class 'str'>
+347,results_istWatch_0_dpvWatchlist_0_street,10,<class 'str'>
+348,results_istWatch_0_dpvWatchlist_0_state,12,<class 'str'>
+349,results_istWatch_0_dpvWatchlist_0_city,test,<class 'str'>
+350,results_istWatch_0_dpvWatchlist_0_postalCode,10,<class 'str'>
+351,results_istWatch_0_dpvWatchlist_0_phone,12,<class 'str'>
+352,results_istWatch_0_dpvWatchlist_0_country,test,<class 'str'>
+353,results_istWatch_0_dpvWatchlist_0_callSign,10,<class 'str'>
+354,results_istWatch_0_dpvWatchlist_0_dateEntered,12,<class 'str'>
+355,results_istWatch_0_dpvWatchlist_0_dupId,test,<class 'str'>
+356,results_istWatch_0_dpvWatchlist_0_effectiveDate,10,<class 'str'>
+357,results_istWatch_0_dpvWatchlist_0_errorDesc,12,<class 'str'>
+358,results_istWatch_0_dpvWatchlist_0_expirationDate,test,<class 'str'>
+359,results_istWatch_0_dpvWatchlist_0_id,10,<class 'str'>
+360,results_istWatch_0_dpvWatchlist_0_memo,12,<class 'str'>
+361,results_istWatch_0_dpvWatchlist_0_program,test,<class 'str'>
+362,results_istWatch_0_dpvWatchlist_0_returnCodes,10,<class 'str'>
+363,results_istWatch_0_dpvWatchlist_0_score,12,<class 'str'>
+364,results_istWatch_0_dpvWatchlist_0_searchesLeft,test,<class 'str'>
+365,results_istWatch_0_dpvWatchlist_0_standardOrder,10,<class 'str'>
+366,results_istWatch_0_dpvWatchlist_0_title,12,<class 'str'>
+367,results_istWatch_0_dpvWatchlist_0_tonnage,12,<class 'str'>
+368,results_istWatch_0_dpvWatchlist_0_vessFlag,test,<class 'str'>
+369,results_istWatch_0_dpvWatchlist_0_vessOwner,10,<class 'str'>
+370,results_istWatch_0_dpvWatchlist_0_vessType,12,<class 'str'>

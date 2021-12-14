@@ -1,0 +1,134 @@
+{
+  "requestId": "100",
+  "success": true,
+  "comments": "abcde12345",
+  "results": {
+    "businessNameAndAddress": [
+      {
+        "bin": "123456789",
+        "businessName": "EXPERIAN",
+        "profileDate": "1",
+        "profileTime": "21:51:00",
+        "fileEstablishDate": "2017-12-01",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "phone": "9495673800",
+        "sic": {
+          "code": "123",
+          "definition": "Definition of 123"
+        },
+        "matchingNameAndAddress": {
+          "businessName": "EXPERIAN",
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "customerDisputeIndicator": "Y"
+        }
+      }
+    ],
+    "intelliscoreScoreInformation": [
+      {
+        "publiclyHeldCompany": {
+          "code": "123",
+          "definition": "Definition of 123"
+        },
+        "limitedProfile": {
+          "code": "123",
+          "definition": "Definition of 123"
+        },
+        "scoreInfo": {
+          "score": 123,
+          "scoreSign": "Definition of Score Sign"
+        },
+        "profileNumber": "string",
+        "modelInformation": {
+          "modelCode": "123",
+          "modelTitle": "123",
+          "customModelCode": "123"
+        },
+        "probability": {
+          "amount": "123",
+          "text": "123"
+        },
+        "action": "123",
+        "riskClass": "123",
+        "customerDisputeStatement": {
+          "code": "123",
+          "definition": "Definition of 123"
+        },
+        "percentileRanking": 123
+      }
+    ],
+    "intelliscoreFactors": [
+      {
+        "scoreFactor": {
+          "code": "string",
+          "definition": "string"
+        },
+        "modelCode": "123"
+      }
+    ],
+    "customHeader": {
+      "code": "string",
+      "definition": "string"
+    },
+    "customFooter": {
+      "code": "string",
+      "definition": "string"
+    },
+    "executiveElements": {
+      "bankruptcyCount": 0,
+      "earliestBankruptcyDate": "string",
+      "mostRecentBankruptcyDate": "string",
+      "taxLienCount": 0,
+      "earliestTaxLienDate": "string",
+      "mostRecentTaxLienDate": "string",
+      "judgmentCount": 0,
+      "earliestJudgmentDate": "string",
+      "mostRecentJudgmentDate": "string",
+      "collectionCount": 0,
+      "legalBalance": 0,
+      "uccFilings": 0,
+      "uccDerogatoryCount": 0,
+      "currentAccountBalance": 0,
+      "currentTradelineCount": 0,
+      "monthlyAverageDbt": 0,
+      "highestDbt6Months": 0,
+      "highestDbt5Quarters": 0,
+      "activeTradelineCount": 0,
+      "allTradelineBalance": 0,
+      "allTradelineCount": 0,
+      "averageBalance5Quarters": 0,
+      "singleLineHighCredit": 0,
+      "lowBalance6Months": 0,
+      "highBalance6Months": 0,
+      "earliestCollectionDate": "string",
+      "mostRecentCollectionDate": "string",
+      "currentDbt": 0,
+      "taxId": "string",
+      "earliestUccDate": "string",
+      "mostRecentUccDate": "string",
+      "bankruptcyIndicator": true,
+      "judgmentIndicator": true,
+      "taxLienIndicator": true,
+      "inquiriesPrevious9Months": 0,
+      "lienBalance": 0,
+      "judgmentBalance": 0,
+      "yearOfIncorporation": "2015"
+    },
+    "consumerStatement": {
+      "type": {
+        "code": "123",
+        "definition": "Definition of 123"
+      },
+      "dateReported": "string",
+      "text": "string"
+    }
+  }
+}

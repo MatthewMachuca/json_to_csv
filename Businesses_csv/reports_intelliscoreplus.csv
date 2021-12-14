@@ -1,0 +1,89 @@
+,Attribute,Sample Value,Data Type
+0,requestId,100,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,abcde12345,<class 'str'>
+3,results_businessNameAndAddress_0_bin,123456789,<class 'str'>
+4,results_businessNameAndAddress_0_businessName,EXPERIAN,<class 'str'>
+5,results_businessNameAndAddress_0_profileDate,1,<class 'str'>
+6,results_businessNameAndAddress_0_profileTime,21:51:00,<class 'str'>
+7,results_businessNameAndAddress_0_fileEstablishDate,2017-12-01,<class 'str'>
+8,results_businessNameAndAddress_0_address_street,535 ANTON BLVD,<class 'str'>
+9,results_businessNameAndAddress_0_address_city,Costa Mesa,<class 'str'>
+10,results_businessNameAndAddress_0_address_state,CA,<class 'str'>
+11,results_businessNameAndAddress_0_address_zip,92626,<class 'str'>
+12,results_businessNameAndAddress_0_address_zipExtension,1947,<class 'str'>
+13,results_businessNameAndAddress_0_phone,9495673800,<class 'str'>
+14,results_businessNameAndAddress_0_sic_code,123,<class 'str'>
+15,results_businessNameAndAddress_0_sic_definition,Definition of 123,<class 'str'>
+16,results_businessNameAndAddress_0_matchingNameAndAddress_businessName,EXPERIAN,<class 'str'>
+17,results_businessNameAndAddress_0_matchingNameAndAddress_street,535 ANTON BLVD,<class 'str'>
+18,results_businessNameAndAddress_0_matchingNameAndAddress_city,Costa Mesa,<class 'str'>
+19,results_businessNameAndAddress_0_matchingNameAndAddress_state,CA,<class 'str'>
+20,results_businessNameAndAddress_0_matchingNameAndAddress_zip,92626,<class 'str'>
+21,results_businessNameAndAddress_0_matchingNameAndAddress_customerDisputeIndicator,Y,<class 'str'>
+22,results_intelliscoreScoreInformation_0_publiclyHeldCompany_code,123,<class 'str'>
+23,results_intelliscoreScoreInformation_0_publiclyHeldCompany_definition,Definition of 123,<class 'str'>
+24,results_intelliscoreScoreInformation_0_limitedProfile_code,123,<class 'str'>
+25,results_intelliscoreScoreInformation_0_limitedProfile_definition,Definition of 123,<class 'str'>
+26,results_intelliscoreScoreInformation_0_scoreInfo_score,123,<class 'int'>
+27,results_intelliscoreScoreInformation_0_scoreInfo_scoreSign,Definition of Score Sign,<class 'str'>
+28,results_intelliscoreScoreInformation_0_profileNumber,string,<class 'str'>
+29,results_intelliscoreScoreInformation_0_modelInformation_modelCode,123,<class 'str'>
+30,results_intelliscoreScoreInformation_0_modelInformation_modelTitle,123,<class 'str'>
+31,results_intelliscoreScoreInformation_0_modelInformation_customModelCode,123,<class 'str'>
+32,results_intelliscoreScoreInformation_0_probability_amount,123,<class 'str'>
+33,results_intelliscoreScoreInformation_0_probability_text,123,<class 'str'>
+34,results_intelliscoreScoreInformation_0_action,123,<class 'str'>
+35,results_intelliscoreScoreInformation_0_riskClass,123,<class 'str'>
+36,results_intelliscoreScoreInformation_0_customerDisputeStatement_code,123,<class 'str'>
+37,results_intelliscoreScoreInformation_0_customerDisputeStatement_definition,Definition of 123,<class 'str'>
+38,results_intelliscoreScoreInformation_0_percentileRanking,123,<class 'int'>
+39,results_intelliscoreFactors_0_scoreFactor_code,string,<class 'str'>
+40,results_intelliscoreFactors_0_scoreFactor_definition,string,<class 'str'>
+41,results_intelliscoreFactors_0_modelCode,123,<class 'str'>
+42,results_customHeader_code,string,<class 'str'>
+43,results_customHeader_definition,string,<class 'str'>
+44,results_customFooter_code,string,<class 'str'>
+45,results_customFooter_definition,string,<class 'str'>
+46,results_executiveElements_bankruptcyCount,0,<class 'int'>
+47,results_executiveElements_earliestBankruptcyDate,string,<class 'str'>
+48,results_executiveElements_mostRecentBankruptcyDate,string,<class 'str'>
+49,results_executiveElements_taxLienCount,0,<class 'int'>
+50,results_executiveElements_earliestTaxLienDate,string,<class 'str'>
+51,results_executiveElements_mostRecentTaxLienDate,string,<class 'str'>
+52,results_executiveElements_judgmentCount,0,<class 'int'>
+53,results_executiveElements_earliestJudgmentDate,string,<class 'str'>
+54,results_executiveElements_mostRecentJudgmentDate,string,<class 'str'>
+55,results_executiveElements_collectionCount,0,<class 'int'>
+56,results_executiveElements_legalBalance,0,<class 'int'>
+57,results_executiveElements_uccFilings,0,<class 'int'>
+58,results_executiveElements_uccDerogatoryCount,0,<class 'int'>
+59,results_executiveElements_currentAccountBalance,0,<class 'int'>
+60,results_executiveElements_currentTradelineCount,0,<class 'int'>
+61,results_executiveElements_monthlyAverageDbt,0,<class 'int'>
+62,results_executiveElements_highestDbt6Months,0,<class 'int'>
+63,results_executiveElements_highestDbt5Quarters,0,<class 'int'>
+64,results_executiveElements_activeTradelineCount,0,<class 'int'>
+65,results_executiveElements_allTradelineBalance,0,<class 'int'>
+66,results_executiveElements_allTradelineCount,0,<class 'int'>
+67,results_executiveElements_averageBalance5Quarters,0,<class 'int'>
+68,results_executiveElements_singleLineHighCredit,0,<class 'int'>
+69,results_executiveElements_lowBalance6Months,0,<class 'int'>
+70,results_executiveElements_highBalance6Months,0,<class 'int'>
+71,results_executiveElements_earliestCollectionDate,string,<class 'str'>
+72,results_executiveElements_mostRecentCollectionDate,string,<class 'str'>
+73,results_executiveElements_currentDbt,0,<class 'int'>
+74,results_executiveElements_taxId,string,<class 'str'>
+75,results_executiveElements_earliestUccDate,string,<class 'str'>
+76,results_executiveElements_mostRecentUccDate,string,<class 'str'>
+77,results_executiveElements_bankruptcyIndicator,True,<class 'bool'>
+78,results_executiveElements_judgmentIndicator,True,<class 'bool'>
+79,results_executiveElements_taxLienIndicator,True,<class 'bool'>
+80,results_executiveElements_inquiriesPrevious9Months,0,<class 'int'>
+81,results_executiveElements_lienBalance,0,<class 'int'>
+82,results_executiveElements_judgmentBalance,0,<class 'int'>
+83,results_executiveElements_yearOfIncorporation,2015,<class 'str'>
+84,results_consumerStatement_type_code,123,<class 'str'>
+85,results_consumerStatement_type_definition,Definition of 123,<class 'str'>
+86,results_consumerStatement_dateReported,string,<class 'str'>
+87,results_consumerStatement_text,string,<class 'str'>

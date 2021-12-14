@@ -1,0 +1,14 @@
+,Attribute,Sample Value,Data Type
+0,requestId,C600331850,<class 'str'>
+1,success,True,<class 'bool'>
+2,reverseAddresses_0_sequenceNumber,1,<class 'int'>
+3,reverseAddresses_0_bin,800914632,<class 'str'>
+4,reverseAddresses_0_businessName,"DSG BENEFITS GROUP, LLC",<class 'str'>
+5,reverseAddresses_0_address_street,535 ANTON BLVD,<class 'str'>
+6,reverseAddresses_0_address_city,Costa Mesa,<class 'str'>
+7,reverseAddresses_0_address_state,CA,<class 'str'>
+8,reverseAddresses_0_address_zip,92626,<class 'str'>
+9,reverseAddresses_0_address_zipExtension,1947,<class 'str'>
+10,reverseAddresses_0_binEstablishDate,12/16/2013,<class 'str'>
+11,reverseAddresses_0_binActivityCode,A,<class 'str'>
+12,reverseAddresses_0_binDateLastReported,06/09/2016,<class 'str'>

@@ -1,0 +1,563 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "testing",
+  "results": {
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    },
+    "businessFacts": {
+      "sicCodes": [
+        {
+          "code": "7323",
+          "definition": "CREDIT REPORTING SERVICES"
+        }
+      ],
+      "naicsCodes": [
+        {
+          "code": "561450",
+          "definition": "Credit Bureaus"
+        }
+      ],
+      "publicIndicator": true,
+      "tickerSymbol": "EXP",
+      "stockExchange": "Experian Consumer Direct, Inc.",
+      "nonProfitIndicator": true,
+      "yearsOnFile": 21,
+      "stateOfIncorporation": "MA",
+      "dateOfIncorporation": "01/01/1996",
+      "businessType": "Corporation",
+      "employeeSize": 13456,
+      "employeeSizeCode": "A",
+      "salesRevenue": 130311000,
+      "salesSizeCode": "B",
+      "fortune1000": {
+        "year": 0,
+        "rank": 0
+      },
+      "corporateLinkageType": "Headquarters/Parent",
+      "executiveInformation": [
+        {
+          "firstName": "Mike",
+          "middleName": null,
+          "lastName": "Dean",
+          "title": "President"
+        }
+      ]
+    },
+    "businessContacts": {
+      "individualOwnersAndPrincipals": [
+        {
+          "dateReported": "2014-12-27",
+          "currentOwnerIndicator": true,
+          "firstName": "John",
+          "middleName": "Davison",
+          "lastName": "Rockefeller",
+          "generationCode": "JR",
+          "emailAddress": "john.doe@genericcompany.com",
+          "ownerIsGuarantorIndicator": true,
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "1947"
+          },
+          "percentOfFinancialObligation": 58,
+          "nameAddressChangeIndicator": true
+        }
+      ],
+      "companyOwnersAndPrincipals": [
+        {
+          "dateReported": "2014-12-27",
+          "currentOwnerIndicator": true,
+          "businessName": "Bob Inc",
+          "taxId": "XXXXX4185",
+          "taxIdType": {
+            "code": "1",
+            "definition": "Federal Tax ID"
+          },
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "1947"
+          },
+          "phone": "8654065312",
+          "percentOfFinancialObligation": 58,
+          "nameAddressChangeIndicator": true,
+          "ownerIsGuarantorIndicator": true
+        }
+      ],
+      "contactsAndTitles": [
+        {
+          "sequenceNumber": 1,
+          "cid": "9081024576",
+          "title": "CEO",
+          "contactActivityIndicator": true,
+          "contactSupplier": "Experian",
+          "firstName": "Jon",
+          "middleName": "Jon",
+          "lastName": "Consumer"
+        }
+      ],
+      "contactsBusinessAffiliations": [
+        {
+          "sequenceNumber": 1,
+          "cid": "9081024576",
+          "title": "CEO",
+          "contactActivityIndicator": true,
+          "contactSupplier": "Experian",
+          "firstName": "Jon",
+          "middleName": "Jon",
+          "lastName": "Consumer",
+          "bin": "800914632",
+          "businessName": "Experian",
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "1947"
+          }
+        }
+      ]
+    },
+    "corporateRegistration": {
+      "stateOfOrigin": "CA",
+      "legalName": "XYZ, INC.",
+      "charterNumber": "042147607",
+      "originalFilingDate": "2017-07-15",
+      "recentFilingDate": "2017-07-15",
+      "incorporatedDate": "1973-01-20",
+      "businessType": "LLC",
+      "statusFlag": "Active",
+      "statusDescription": "Good standing",
+      "profitFlag": "Profit",
+      "existenceTermYears": 3,
+      "existenceTermDate": "2025-12-31",
+      "federalTaxId": "135006789",
+      "stateTaxId": "NY100199938",
+      "domesticForeignIndicator": "Domestic filing state",
+      "agentName": "John Doe",
+      "agentAddress": {
+        "street": "100 Broadway",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10005"
+      },
+      "corporateRegistrationIndicator": true
+    },
+    "bankruptcySummary": {
+      "bankruptcyIndicator": true,
+      "bankruptcyCount": 5
+    },
+    "bankruptcyDetail": [
+      {
+        "dateFiled": {},
+        "legalType": "BANKRUPTCY",
+        "legalAction": "CHAPTER 11",
+        "documentNumber": "1511878",
+        "filingLocation": "DELAWARE FEDERAL BANK COURT-WILMINGTON",
+        "owner": "CROCKER INDUSTRIES",
+        "customerDisputeIndicator": 1,
+        "liabilityAmount": 1,
+        "assetAmount": 1,
+        "exemptAmount": 1
+      }
+    ],
+    "corporateLinkagePartial": [
+      {
+        "corporateLinkageType": "Ultimate Parent",
+        "bin": "800914632",
+        "businessName": "EXPERIAN PLC",
+        "address": {
+          "street": "475 Anton Blvd",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "country": "USA"
+        },
+        "matchingBusinessIndicator": true,
+        "returnLimitExceeded": true
+      }
+    ],
+    "corporateLinkageFull": {
+      "corporateLinkagePartial": [
+        {
+          "corporateLinkageType": "Ultimate Parent",
+          "bin": "800914632",
+          "businessName": "EXPERIAN PLC",
+          "address": {
+            "street": "475 Anton Blvd",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "country": "USA"
+          },
+          "ultimateBin": "800914632",
+          "parentBin": "800914632",
+          "ultimateParentIndicator": true,
+          "parentIndicator": true,
+          "subsidiaryIndicator": true,
+          "linkageLevel": 1,
+          "branchIndicator": true,
+          "activityIndicator": true,
+          "commercialRiskClass": "High Risk"
+        }
+      ]
+    },
+    "fsrScore": {
+      "modelCode": "string",
+      "modelTitle": "string",
+      "score": 0,
+      "percentileRanking": 0,
+      "recommendedCreditLimitAmount": 206400,
+      "riskClass": {
+        "code": 1,
+        "definition": "Low Risk"
+      }
+    },
+    "judgmentSummary": {
+      "judgmentCount": 0,
+      "judgmentBalance": 0
+    },
+    "judgmentDetail": [
+      {
+        "dateFiled": "2021-12-14",
+        "legalType": "string",
+        "legalAction": "string",
+        "documentNumber": "string",
+        "filingLocation": "string",
+        "owner": "string",
+        "liabilityAmount": 0,
+        "plaintiffName": "string",
+        "customerDisputeIndicator": true
+      }
+    ],
+    "lienSummary": {
+      "lienCount": 7,
+      "lienBalance": 25750
+    },
+    "lienDetail": [
+      {
+        "dateFiled": "2017-03-18",
+        "legalType": "State Tax",
+        "legalAction": "Filed",
+        "documentNumber": "2012T15358",
+        "filingLocation": "ONONDAGA COUNTY CLERKS OFFICE",
+        "owner": "STATE OF NEW YORK",
+        "liabilityAmount": 4289,
+        "customerDisputeIndicator": true,
+        "taxLienDescription": "AA"
+      }
+    ],
+    "commercialFraudShieldSummary": {
+      "matchingBusinessIndicator": "string",
+      "activeBusinessIndicator": true,
+      "ofacMatchWarning": {
+        "code": 13,
+        "definition": "OFAC match to company name and address",
+        "detailStatement": "BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;"
+      },
+      "businessVictimStatementIndicator": true,
+      "businessRiskTriggersIndicator": true,
+      "nameAddressVerificationIndicator": true,
+      "businessRiskTriggersStatement": ["string"]
+    },
+    "governmentDetails": {
+      "commercialGovernmentEntityCode": {
+        "cageCode": "A",
+        "samNumber": "100"
+      },
+      "economicDiversity": {
+        "mbe": true,
+        "wbe": true,
+        "dbe": true,
+        "sba8a": true,
+        "hubzone": true,
+        "vet": true,
+        "dvet": true,
+        "hbcu": true,
+        "sdb": true,
+        "sba": true,
+        "lsa": true
+      },
+      "governmentActivity": {
+        "congressionalDistrict": "Sample String Value",
+        "contractorIndicator": true,
+        "debarredIndicator": true,
+        "agency": {
+          "code": "NAVY",
+          "definition": "DEPARTMENT OF NAVY"
+        },
+        "exclusionType": "Sample String Value",
+        "activeDate": "2018-01-20",
+        "terminationDate": "2018-01-20",
+        "importExportCode": "A"
+      },
+      "contractSpendingSummary": {
+        "totalDollarAmount": 100,
+        "totalNumberOfTransactions": 100,
+        "currentFiscalYear": {
+          "year": 100,
+          "totalAmount": 100,
+          "singleHighestAmount": 100
+        },
+        "priorFiscalYear": [
+          {
+            "year": 100,
+            "totalAmount": 100,
+            "singleHighestAmount": 100
+          }
+        ]
+      },
+      "contractSpendingDetail": [
+        {
+          "contractAction": "Sample String Value",
+          "programSource": "Sample String Value",
+          "departmentAgency": "Sample String Value",
+          "productService": "Sample String Value",
+          "signedDate": "2018-01-20",
+          "obligationAmount": 100,
+          "reasonForModification": "Sample String Value",
+          "sequenceNumber": 100
+        }
+      ],
+      "contractAdditionalDescription": [
+        {
+          "descriptionText": "Sample String Value",
+          "sequenceNumber": 100,
+          "additionalDescriptionIndicator": true
+        }
+      ]
+    },
+    "fsrScoreFactors": [
+      {
+        "code": "string",
+        "definition": "string"
+      }
+    ],
+    "fsrScoreTrends": [
+      {
+        "quarter": "string",
+        "score": 0
+      }
+    ],
+    "departmentOfJusticeSearch": {
+      "results": {
+        "itemList": {
+          "item": [
+            {
+              "id": "123",
+              "name": "123",
+              "url": "123",
+              "displayUrl": "123",
+              "snippet": "123",
+              "dateLastCrawled": "123"
+            }
+          ]
+        }
+      },
+      "responseMessage": "test"
+    },
+    "reverseTaxId": [
+      {
+        "sequenceNumber": 1,
+        "bin": "800914632",
+        "businessName": "IDC, CORP",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "binEstablishDate": "1988-09-27",
+        "binActivityCode": "A",
+        "binDateLastReported": "2006-09-26"
+      }
+    ],
+    "reversePhone": [
+      {
+        "sequenceNumber": 1,
+        "bin": "800914632",
+        "businessName": "IDC, CORP",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "binEstablishDate": "1988-09-27",
+        "binActivityCode": "A",
+        "binDateLastReported": "2006-09-26"
+      }
+    ],
+    "reverseAddress": [
+      {
+        "sequenceNumber": 1,
+        "bin": "800914632",
+        "businessName": "DSG BENEFITS GROUP, LLC",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "1947"
+        },
+        "binEstablishDate": "12/16/2013",
+        "binActivityCode": "A",
+        "binDateLastReported": "06/09/2016"
+      }
+    ],
+    "betterBusinessBureauRating": {
+      "responseMessage": "test",
+      "totalResults": "10",
+      "pageNumber": "12",
+      "searchResults": {
+        "itemList": {
+          "item": {
+            "businessId": "123",
+            "organizationType": "123",
+            "organizationName": "123",
+            "isBBBAccredited": "123",
+            "ratingIcons": {
+              "itemList": {
+                "item": [
+                  {
+                    "url": "123",
+                    "deviceType": "123"
+                  }
+                ]
+              }
+            },
+            "isReportable": "123",
+            "primaryCategory": "123",
+            "contactFirstName": "123",
+            "contactLastName": "123",
+            "contactTitle": "123",
+            "dateBusinessStarted": "123",
+            "address": "123",
+            "city": "123",
+            "stateProvince": "123",
+            "postalCode": "123",
+            "reportURL": "123",
+            "organizationLastChanged": "123",
+            "ratingLastChanged": "123",
+            "contactPrefix": "123"
+          }
+        }
+      }
+    },
+    "fraudShield": {
+      "matchingBusinessAddress": "Primary Business",
+      "activeBusinessIndicator": true,
+      "ofacMatchWarning": {
+        "code": 13,
+        "definition": "OFAC match to company name and address",
+        "detailStatement": "BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;"
+      },
+      "businessVictimStatementIndicator": true,
+      "businessRiskTriggersIndicator": true,
+      "businessRiskTriggersStatement": "BUSINESS ADDRESS IDENTIFIED AS RESIDENTIAL",
+      "nameAddressVerificationIndicator": true
+    },
+    "istWatch": [
+      {
+        "ofacWatchlist": [
+          {
+            "addNum": "test",
+            "addRemarks": "10",
+            "name": "12",
+            "nameSearchKey": "test",
+            "street": "10",
+            "state": "12",
+            "city": "test",
+            "postalCode": "10",
+            "phone": "12",
+            "country": "test",
+            "callSign": "10",
+            "dateEntered": "12",
+            "dupId": "test",
+            "effectiveDate": "10",
+            "errorDesc": "12",
+            "expirationDate": "test",
+            "id": "10",
+            "memo": "12",
+            "program": "test",
+            "returnCodes": "10",
+            "score": "12",
+            "searchesLeft": "test",
+            "standardOrder": "10",
+            "title": "12",
+            "tonnage": "12",
+            "vessFlag": "test",
+            "vessOwner": "10",
+            "vessType": "12"
+          }
+        ],
+        "dpvWatchlist": [
+          {
+            "addNum": "test",
+            "addRemarks": "10",
+            "name": "12",
+            "nameSearchKey": "test",
+            "street": "10",
+            "state": "12",
+            "city": "test",
+            "postalCode": "10",
+            "phone": "12",
+            "country": "test",
+            "callSign": "10",
+            "dateEntered": "12",
+            "dupId": "test",
+            "effectiveDate": "10",
+            "errorDesc": "12",
+            "expirationDate": "test",
+            "id": "10",
+            "memo": "12",
+            "program": "test",
+            "returnCodes": "10",
+            "score": "12",
+            "searchesLeft": "test",
+            "standardOrder": "10",
+            "title": "12",
+            "tonnage": "12",
+            "vessFlag": "test",
+            "vessOwner": "10",
+            "vessType": "12"
+          }
+        ]
+      }
+    ]
+  }
+}

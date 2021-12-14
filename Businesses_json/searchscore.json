@@ -1,0 +1,16 @@
+{
+    "name": "Experian",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "subcode": "0586548",
+    "street": "475 ANTON BLVD",
+    "zip": "92626",
+    "phone": "9495673800",
+    "taxId": "176970333",
+    "geo": true,
+    "comments": "testing",
+    "modelCode": "000254",
+    "matchReliabilityCode": 90.75,
+    "commercialScore": true,
+    "fsrScore": true
+  }

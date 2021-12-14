@@ -1,0 +1,50 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,Sample String Value,<class 'str'>
+3,results_pppSeqNum,004774539,<class 'str'>
+4,results_businessName,ADVANCED CABLE TECHNOLOGY INC,<class 'str'>
+5,results_addressLine1,184 TWO ROD ROAD,<class 'str'>
+6,results_city,MARILLA,<class 'str'>
+7,results_state,NY,<class 'str'>
+8,results_zip,14102,<class 'str'>
+9,results_businessType,SUBCHAPTER S CORPORATION,<class 'str'>
+10,results_nonProfit,,<class 'str'>
+11,results_naicsCode,541512,<class 'str'>
+12,results_raceEthnicity,UNANSWERED,<class 'str'>
+13,results_gender,UNANSWERED,<class 'str'>
+14,results_veteran,UNANSWERED,<class 'str'>
+15,results_loanRange,"E $150,000-350,000",<class 'str'>
+16,results_beginLoan,150000,<class 'int'>
+17,results_endLoan,350000,<class 'int'>
+18,results_jobsRetained,11,<class 'int'>
+19,results_jobsReported,56,<class 'int'>
+20,results_lender,MANUFACTURERS AND TRADERS TRUST COMPANY,<class 'str'>
+21,results_loanAmount,509417,<class 'str'>
+22,results_cd,NY-27,<class 'str'>
+23,results_dateApproved,04/15/2020,<class 'str'>
+24,results_outMinimumMrc,75,<class 'int'>
+25,results_outLegacyMrc,100,<class 'int'>
+26,results_businessHeader_bin,800914632,<class 'str'>
+27,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+28,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+29,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+30,results_businessHeader_address_state,CA,<class 'str'>
+31,results_businessHeader_address_zip,92626,<class 'str'>
+32,results_businessHeader_address_zipExtension,1947,<class 'str'>
+33,results_businessHeader_phone,+19495673800,<class 'str'>
+34,results_businessHeader_taxId,176970333,<class 'str'>
+35,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+36,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+37,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+38,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+39,results_businessHeader_foreignCountry,True,<class 'bool'>
+40,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+41,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+42,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+43,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+44,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+45,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+46,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+47,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+48,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>

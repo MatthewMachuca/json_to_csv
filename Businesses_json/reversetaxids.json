@@ -1,0 +1,21 @@
+{
+  "requestId": "7f5c8020-af81-11e7-8119-d7f9efdbf791",
+  "success": true,
+  "reverseTaxIds": [
+    {
+      "sequenceNumber": 1,
+      "bin": "800914632",
+      "businessName": "IDC, CORP",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "binEstablishDate": "1988-09-27",
+      "binActivityCode": "A",
+      "binDateLastReported": "2006-09-26"
+    }
+  ]
+}

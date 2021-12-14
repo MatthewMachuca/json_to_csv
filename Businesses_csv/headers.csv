@@ -1,0 +1,26 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,results_bin,800914632,<class 'str'>
+3,results_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+4,results_address_street,535 ANTON BLVD,<class 'str'>
+5,results_address_city,Costa Mesa,<class 'str'>
+6,results_address_state,CA,<class 'str'>
+7,results_address_zip,92626,<class 'str'>
+8,results_address_zipExtension,1947,<class 'str'>
+9,results_phone,+19495673800,<class 'str'>
+10,results_taxId,176970333,<class 'str'>
+11,results_websiteUrl,consumerinfo.com,<class 'str'>
+12,results_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+13,results_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_customerDisputeIndicator,True,<class 'bool'>
+15,results_foreignCountry,True,<class 'bool'>
+16,results_corporateLinkageIndicator,True,<class 'bool'>
+17,results_matchingBranchAddress_bin,800914632,<class 'str'>
+18,results_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+19,results_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+20,results_matchingBranchAddress_state,CA,<class 'str'>
+21,results_matchingBranchAddress_zip,92626,<class 'str'>
+22,results_matchingBranchAddress_zipExtension,1947,<class 'str'>
+23,results_branchLocation_bin,800914632,<class 'str'>
+24,results_branchLocation_locationId,475 ANTON BLVD,<class 'str'>

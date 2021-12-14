@@ -1,0 +1,552 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,testing,<class 'str'>
+3,results_businessHeader_bin,800914632,<class 'str'>
+4,results_businessHeader_businessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+5,results_businessHeader_address_street,535 ANTON BLVD,<class 'str'>
+6,results_businessHeader_address_city,Costa Mesa,<class 'str'>
+7,results_businessHeader_address_state,CA,<class 'str'>
+8,results_businessHeader_address_zip,92626,<class 'str'>
+9,results_businessHeader_address_zipExtension,1947,<class 'str'>
+10,results_businessHeader_phone,+19495673800,<class 'str'>
+11,results_businessHeader_taxId,176970333,<class 'str'>
+12,results_businessHeader_websiteUrl,consumerinfo.com,<class 'str'>
+13,results_businessHeader_legalBusinessName,EXPERIAN CONSUMER DIRECT,<class 'str'>
+14,results_businessHeader_dbaNames_0,EXPERIAN CONSUMER DIRECT,<class 'str'>
+15,results_businessHeader_customerDisputeIndicator,True,<class 'bool'>
+16,results_businessHeader_foreignCountry,True,<class 'bool'>
+17,results_businessHeader_corporateLinkageIndicator,True,<class 'bool'>
+18,results_businessHeader_matchingBranchAddress_bin,800914632,<class 'str'>
+19,results_businessHeader_matchingBranchAddress_street,475 ANTON BLVD,<class 'str'>
+20,results_businessHeader_matchingBranchAddress_city,Costa Mesa,<class 'str'>
+21,results_businessHeader_matchingBranchAddress_state,CA,<class 'str'>
+22,results_businessHeader_matchingBranchAddress_zip,92626,<class 'str'>
+23,results_businessHeader_matchingBranchAddress_zipExtension,1947,<class 'str'>
+24,results_businessHeader_branchLocation_bin,800914632,<class 'str'>
+25,results_businessHeader_branchLocation_locationId,475 ANTON BLVD,<class 'str'>
+26,results_collectionsDetail_0_accountStatus,Open Account,<class 'str'>
+27,results_collectionsDetail_0_datePlacedForCollection,2016-03-25,<class 'str'>
+28,results_collectionsDetail_0_dateClosed,2016-05-01,<class 'str'>
+29,results_collectionsDetail_0_amountPlacedForCollection,5200,<class 'int'>
+30,results_collectionsDetail_0_amountPaid,0,<class 'int'>
+31,results_collectionsDetail_0_collectionAgencyInfo_name,A.G. ADJUSTMENTS LTD,<class 'str'>
+32,results_collectionsDetail_0_collectionAgencyInfo_phoneNumber,+16314258800,<class 'str'>
+33,results_tradePaymentExperiences_0_paymentIndicator_code,-,<class 'str'>
+34,results_tradePaymentExperiences_0_paymentIndicator_definition,Pays slower,<class 'str'>
+35,results_tradePaymentExperiences_0_businessCategory,ACCT SERVICES,<class 'str'>
+36,results_tradePaymentExperiences_0_dateReported,2018-01-03,<class 'str'>
+37,results_tradePaymentExperiences_0_dateLastActivity,2018-01-03,<class 'str'>
+38,results_tradePaymentExperiences_0_terms,NET30,<class 'str'>
+39,results_tradePaymentExperiences_0_recentHighCredit_modifier,,<class 'NoneType'>
+40,results_tradePaymentExperiences_0_recentHighCredit_amount,123,<class 'int'>
+41,results_tradePaymentExperiences_0_accountBalance_modifier,123,<class 'str'>
+42,results_tradePaymentExperiences_0_accountBalance_amount,123,<class 'int'>
+43,results_tradePaymentExperiences_0_currentPercentage,90,<class 'int'>
+44,results_tradePaymentExperiences_0_dbt30,5,<class 'int'>
+45,results_tradePaymentExperiences_0_dbt60,3,<class 'int'>
+46,results_tradePaymentExperiences_0_dbt90,1,<class 'int'>
+47,results_tradePaymentExperiences_0_dbt91Plus,1,<class 'int'>
+48,results_tradePaymentExperiences_0_comments,Account closed,<class 'str'>
+49,results_tradePaymentExperiences_0_tradelineFlag_code,Y,<class 'str'>
+50,results_tradePaymentExperiences_0_tradelineFlag_definition,"Open Account, No Aging",<class 'str'>
+51,results_tradePaymentExperiences_0_newlyReportedIndicator_code,string,<class 'str'>
+52,results_tradePaymentExperiences_0_newlyReportedIndicator_definition,string,<class 'str'>
+53,results_tradePaymentExperiences_0_customerDisputeIndicator,Y,<class 'str'>
+54,results_tradePaymentExperiences_0_itipConsolidatedNumber,123,<class 'int'>
+55,results_additionalPaymentExperiences_0_paymentIndicator_code,-,<class 'str'>
+56,results_additionalPaymentExperiences_0_paymentIndicator_definition,Pays slower,<class 'str'>
+57,results_additionalPaymentExperiences_0_businessCategory,ACCT SERVICES,<class 'str'>
+58,results_additionalPaymentExperiences_0_dateReported,2018-01-03,<class 'str'>
+59,results_additionalPaymentExperiences_0_dateLastActivity,2018-01-03,<class 'str'>
+60,results_additionalPaymentExperiences_0_terms,NET30,<class 'str'>
+61,results_additionalPaymentExperiences_0_recentHighCredit_modifier,,<class 'NoneType'>
+62,results_additionalPaymentExperiences_0_recentHighCredit_amount,123,<class 'int'>
+63,results_additionalPaymentExperiences_0_accountBalance_modifier,123,<class 'str'>
+64,results_additionalPaymentExperiences_0_accountBalance_amount,123,<class 'int'>
+65,results_additionalPaymentExperiences_0_currentPercentage,90,<class 'int'>
+66,results_additionalPaymentExperiences_0_dbt30,5,<class 'int'>
+67,results_additionalPaymentExperiences_0_dbt60,3,<class 'int'>
+68,results_additionalPaymentExperiences_0_dbt90,1,<class 'int'>
+69,results_additionalPaymentExperiences_0_dbt91Plus,1,<class 'int'>
+70,results_additionalPaymentExperiences_0_comments,Account closed,<class 'str'>
+71,results_additionalPaymentExperiences_0_tradelineFlag_code,Y,<class 'str'>
+72,results_additionalPaymentExperiences_0_tradelineFlag_definition,"Open Account, No Aging",<class 'str'>
+73,results_additionalPaymentExperiences_0_newlyReportedIndicator_code,string,<class 'str'>
+74,results_additionalPaymentExperiences_0_newlyReportedIndicator_definition,string,<class 'str'>
+75,results_additionalPaymentExperiences_0_customerDisputeIndicator,Y,<class 'str'>
+76,results_additionalPaymentExperiences_0_itipConsolidatedNumber,123,<class 'int'>
+77,results_paymentTotals_newlyReportedTradelines_tradelineCount,12,<class 'int'>
+78,results_paymentTotals_newlyReportedTradelines_currentDbt,18,<class 'int'>
+79,results_paymentTotals_newlyReportedTradelines_totalHighCreditAmount_amount,12978,<class 'int'>
+80,results_paymentTotals_newlyReportedTradelines_totalHighCreditAmount_modifier,Balance is more than amount reported,<class 'str'>
+81,results_paymentTotals_newlyReportedTradelines_totalAccountBalance_amount,12978,<class 'int'>
+82,results_paymentTotals_newlyReportedTradelines_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+83,results_paymentTotals_newlyReportedTradelines_currentPercentage,100,<class 'int'>
+84,results_paymentTotals_newlyReportedTradelines_dbt30,90,<class 'int'>
+85,results_paymentTotals_newlyReportedTradelines_dbt60,5,<class 'int'>
+86,results_paymentTotals_newlyReportedTradelines_dbt90,3,<class 'int'>
+87,results_paymentTotals_newlyReportedTradelines_dbt91Plus,1,<class 'int'>
+88,results_paymentTotals_newlyReportedTradelines_numberOfLines,27,<class 'int'>
+89,results_paymentTotals_newlyReportedTradelines_dbt,33,<class 'int'>
+90,results_paymentTotals_continuouslyReportedTradelines_tradelineCount,12,<class 'int'>
+91,results_paymentTotals_continuouslyReportedTradelines_currentDbt,18,<class 'int'>
+92,results_paymentTotals_continuouslyReportedTradelines_totalHighCreditAmount_amount,12978,<class 'int'>
+93,results_paymentTotals_continuouslyReportedTradelines_totalHighCreditAmount_modifier,Balance is more than amount reported,<class 'str'>
+94,results_paymentTotals_continuouslyReportedTradelines_totalAccountBalance_amount,12978,<class 'int'>
+95,results_paymentTotals_continuouslyReportedTradelines_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+96,results_paymentTotals_continuouslyReportedTradelines_currentPercentage,100,<class 'int'>
+97,results_paymentTotals_continuouslyReportedTradelines_dbt30,90,<class 'int'>
+98,results_paymentTotals_continuouslyReportedTradelines_dbt60,5,<class 'int'>
+99,results_paymentTotals_continuouslyReportedTradelines_dbt90,3,<class 'int'>
+100,results_paymentTotals_continuouslyReportedTradelines_dbt91Plus,1,<class 'int'>
+101,results_paymentTotals_continuouslyReportedTradelines_numberOfLines,27,<class 'int'>
+102,results_paymentTotals_continuouslyReportedTradelines_dbt,33,<class 'int'>
+103,results_paymentTotals_combinedTradelines_tradelineCount,12,<class 'int'>
+104,results_paymentTotals_combinedTradelines_currentDbt,18,<class 'int'>
+105,results_paymentTotals_combinedTradelines_totalHighCreditAmount_amount,12978,<class 'int'>
+106,results_paymentTotals_combinedTradelines_totalHighCreditAmount_modifier,Balance is more than amount reported,<class 'str'>
+107,results_paymentTotals_combinedTradelines_totalAccountBalance_amount,12978,<class 'int'>
+108,results_paymentTotals_combinedTradelines_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+109,results_paymentTotals_combinedTradelines_currentPercentage,100,<class 'int'>
+110,results_paymentTotals_combinedTradelines_dbt30,90,<class 'int'>
+111,results_paymentTotals_combinedTradelines_dbt60,5,<class 'int'>
+112,results_paymentTotals_combinedTradelines_dbt90,3,<class 'int'>
+113,results_paymentTotals_combinedTradelines_dbt91Plus,1,<class 'int'>
+114,results_paymentTotals_combinedTradelines_numberOfLines,27,<class 'int'>
+115,results_paymentTotals_combinedTradelines_dbt,33,<class 'int'>
+116,results_paymentTotals_additionalTradelines_tradelineCount,12,<class 'int'>
+117,results_paymentTotals_additionalTradelines_currentDbt,18,<class 'int'>
+118,results_paymentTotals_additionalTradelines_totalHighCreditAmount_amount,12978,<class 'int'>
+119,results_paymentTotals_additionalTradelines_totalHighCreditAmount_modifier,Balance is more than amount reported,<class 'str'>
+120,results_paymentTotals_additionalTradelines_totalAccountBalance_amount,12978,<class 'int'>
+121,results_paymentTotals_additionalTradelines_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+122,results_paymentTotals_additionalTradelines_currentPercentage,100,<class 'int'>
+123,results_paymentTotals_additionalTradelines_dbt30,90,<class 'int'>
+124,results_paymentTotals_additionalTradelines_dbt60,5,<class 'int'>
+125,results_paymentTotals_additionalTradelines_dbt90,3,<class 'int'>
+126,results_paymentTotals_additionalTradelines_dbt91Plus,1,<class 'int'>
+127,results_paymentTotals_additionalTradelines_numberOfLines,27,<class 'int'>
+128,results_paymentTotals_additionalTradelines_dbt,33,<class 'int'>
+129,results_paymentTotals_tradelines_tradelineCount,12,<class 'int'>
+130,results_paymentTotals_tradelines_currentDbt,18,<class 'int'>
+131,results_paymentTotals_tradelines_totalHighCreditAmount_amount,12978,<class 'int'>
+132,results_paymentTotals_tradelines_totalHighCreditAmount_modifier,Balance is more than amount reported,<class 'str'>
+133,results_paymentTotals_tradelines_totalAccountBalance_amount,12978,<class 'int'>
+134,results_paymentTotals_tradelines_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+135,results_paymentTotals_tradelines_currentPercentage,100,<class 'int'>
+136,results_paymentTotals_tradelines_dbt30,90,<class 'int'>
+137,results_paymentTotals_tradelines_dbt60,5,<class 'int'>
+138,results_paymentTotals_tradelines_dbt90,3,<class 'int'>
+139,results_paymentTotals_tradelines_dbt91Plus,1,<class 'int'>
+140,results_paymentTotals_tradelines_numberOfLines,27,<class 'int'>
+141,results_paymentTotals_tradelines_dbt,33,<class 'int'>
+142,results_monthlyPaymentTrends_0_date,2017-08-31,<class 'str'>
+143,results_monthlyPaymentTrends_0_dbt,15,<class 'int'>
+144,results_monthlyPaymentTrends_0_totalAccountBalance_amount,12978,<class 'int'>
+145,results_monthlyPaymentTrends_0_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+146,results_monthlyPaymentTrends_0_currentPercentage,95,<class 'int'>
+147,results_monthlyPaymentTrends_0_dbt30,3,<class 'int'>
+148,results_monthlyPaymentTrends_0_dbt60,1,<class 'int'>
+149,results_monthlyPaymentTrends_0_dbt90,1,<class 'int'>
+150,results_monthlyPaymentTrends_0_dbt91Plus,0,<class 'int'>
+151,results_industryPaymentTrends_sic,1521,<class 'str'>
+152,results_industryPaymentTrends_trends_0_date,2017-08-31,<class 'str'>
+153,results_industryPaymentTrends_trends_0_dbt,15,<class 'int'>
+154,results_industryPaymentTrends_trends_0_totalAccountBalance_amount,12978,<class 'int'>
+155,results_industryPaymentTrends_trends_0_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+156,results_industryPaymentTrends_trends_0_currentPercentage,95,<class 'int'>
+157,results_industryPaymentTrends_trends_0_dbt30,3,<class 'int'>
+158,results_industryPaymentTrends_trends_0_dbt60,1,<class 'int'>
+159,results_industryPaymentTrends_trends_0_dbt90,1,<class 'int'>
+160,results_industryPaymentTrends_trends_0_dbt91Plus,0,<class 'int'>
+161,results_quarterlyPaymentTrends_0_date,2017-08-31,<class 'str'>
+162,results_quarterlyPaymentTrends_0_dbt,15,<class 'int'>
+163,results_quarterlyPaymentTrends_0_totalAccountBalance_amount,12978,<class 'int'>
+164,results_quarterlyPaymentTrends_0_totalAccountBalance_modifier,Balance is more than amount reported,<class 'str'>
+165,results_quarterlyPaymentTrends_0_currentPercentage,95,<class 'int'>
+166,results_quarterlyPaymentTrends_0_dbt30,3,<class 'int'>
+167,results_quarterlyPaymentTrends_0_dbt60,1,<class 'int'>
+168,results_quarterlyPaymentTrends_0_dbt90,1,<class 'int'>
+169,results_quarterlyPaymentTrends_0_dbt91Plus,0,<class 'int'>
+170,results_bankruptcyDetail_0_dateFiled,{},<class 'dict'>
+171,results_bankruptcyDetail_0_legalType,BANKRUPTCY,<class 'str'>
+172,results_bankruptcyDetail_0_legalAction,CHAPTER 11,<class 'str'>
+173,results_bankruptcyDetail_0_documentNumber,1511878,<class 'str'>
+174,results_bankruptcyDetail_0_filingLocation,DELAWARE FEDERAL BANK COURT-WILMINGTON,<class 'str'>
+175,results_bankruptcyDetail_0_owner,CROCKER INDUSTRIES,<class 'str'>
+176,results_bankruptcyDetail_0_customerDisputeIndicator,1,<class 'int'>
+177,results_bankruptcyDetail_0_liabilityAmount,1,<class 'int'>
+178,results_bankruptcyDetail_0_assetAmount,1,<class 'int'>
+179,results_bankruptcyDetail_0_exemptAmount,1,<class 'int'>
+180,results_taxLienDetail_0_dateFiled,2017-03-18,<class 'str'>
+181,results_taxLienDetail_0_legalType,State Tax,<class 'str'>
+182,results_taxLienDetail_0_legalAction,Filed,<class 'str'>
+183,results_taxLienDetail_0_documentNumber,2012T15358,<class 'str'>
+184,results_taxLienDetail_0_filingLocation,ONONDAGA COUNTY CLERKS OFFICE,<class 'str'>
+185,results_taxLienDetail_0_owner,STATE OF NEW YORK,<class 'str'>
+186,results_taxLienDetail_0_liabilityAmount,4289,<class 'int'>
+187,results_taxLienDetail_0_customerDisputeIndicator,True,<class 'bool'>
+188,results_taxLienDetail_0_taxLienDescription,AA,<class 'str'>
+189,results_judgmentDetail_0_dateFiled,2021-12-14,<class 'str'>
+190,results_judgmentDetail_0_legalType,string,<class 'str'>
+191,results_judgmentDetail_0_legalAction,string,<class 'str'>
+192,results_judgmentDetail_0_documentNumber,string,<class 'str'>
+193,results_judgmentDetail_0_filingLocation,string,<class 'str'>
+194,results_judgmentDetail_0_owner,string,<class 'str'>
+195,results_judgmentDetail_0_liabilityAmount,0,<class 'int'>
+196,results_judgmentDetail_0_plaintiffName,string,<class 'str'>
+197,results_judgmentDetail_0_customerDisputeIndicator,True,<class 'bool'>
+198,results_uccFilingsSummary_uccFilingsCount,1,<class 'int'>
+199,results_uccFilingsSummary_uccFilingsTrends_0_date,2017-08-31,<class 'str'>
+200,results_uccFilingsSummary_uccFilingsTrends_0_count,15,<class 'int'>
+201,results_uccFilingsSummary_uccFilingsTrends_0_derogatoryCount,10,<class 'int'>
+202,results_uccFilingsSummary_uccFilingsTrends_0_releasesAndTerminationsCount,95,<class 'int'>
+203,results_uccFilingsSummary_uccFilingsTrends_0_continuationsCount,3,<class 'int'>
+204,results_uccFilingsSummary_uccFilingsTrends_0_amendedAndAssignedCount,3,<class 'int'>
+205,results_uccFilingsDetail_0_dateFiled,2017-08-31,<class 'str'>
+206,results_uccFilingsDetail_0_legalType,UCC,<class 'str'>
+207,results_uccFilingsDetail_0_legalAction,Assignment,<class 'str'>
+208,results_uccFilingsDetail_0_documentNumber,A123123,<class 'str'>
+209,results_uccFilingsDetail_0_filingLocation,CA,<class 'str'>
+210,results_uccFilingsDetail_0_collateralCodes_0_code,9,<class 'str'>
+211,results_uccFilingsDetail_0_collateralCodes_0_definition,Hereafter Acquired Property,<class 'str'>
+212,results_uccFilingsDetail_0_securedParty,STAGE COACH DIST INC AZ,<class 'str'>
+213,results_uccFilingsDetail_0_assignee,COYOTE GREETINGS INC AZe,<class 'str'>
+214,results_uccFilingsDetail_0_owner,COYOTE GREETINGS INC AZe,<class 'str'>
+215,results_uccFilingsDetail_0_customerDisputeIndicator,True,<class 'bool'>
+216,results_uccFilingsDetail_0_originalUCCFilingsInfo_legalAction,TERMINATED,<class 'str'>
+217,results_uccFilingsDetail_0_originalUCCFilingsInfo_filingState,MA,<class 'str'>
+218,results_uccFilingsDetail_0_originalUCCFilingsInfo_documentNumber,123,<class 'str'>
+219,results_uccFilingsDetail_0_originalUCCFilingsInfo_dateFiled,2001-01-01,<class 'str'>
+220,results_corporateRegistration_stateOfOrigin,CA,<class 'str'>
+221,results_corporateRegistration_legalName,"XYZ, INC.",<class 'str'>
+222,results_corporateRegistration_charterNumber,042147607,<class 'str'>
+223,results_corporateRegistration_originalFilingDate,2017-07-15,<class 'str'>
+224,results_corporateRegistration_recentFilingDate,2017-07-15,<class 'str'>
+225,results_corporateRegistration_incorporatedDate,1973-01-20,<class 'str'>
+226,results_corporateRegistration_businessType,LLC,<class 'str'>
+227,results_corporateRegistration_statusFlag,Active,<class 'str'>
+228,results_corporateRegistration_statusDescription,Good standing,<class 'str'>
+229,results_corporateRegistration_profitFlag,Profit,<class 'str'>
+230,results_corporateRegistration_existenceTermYears,3,<class 'int'>
+231,results_corporateRegistration_existenceTermDate,2025-12-31,<class 'str'>
+232,results_corporateRegistration_federalTaxId,135006789,<class 'str'>
+233,results_corporateRegistration_stateTaxId,NY100199938,<class 'str'>
+234,results_corporateRegistration_domesticForeignIndicator,Domestic filing state,<class 'str'>
+235,results_corporateRegistration_agentName,John Doe,<class 'str'>
+236,results_corporateRegistration_agentAddress_street,100 Broadway,<class 'str'>
+237,results_corporateRegistration_agentAddress_city,New York,<class 'str'>
+238,results_corporateRegistration_agentAddress_state,NY,<class 'str'>
+239,results_corporateRegistration_agentAddress_zip,10005,<class 'str'>
+240,results_corporateRegistration_corporateRegistrationIndicator,True,<class 'bool'>
+241,results_executiveInformation_0_firstName,Mike,<class 'str'>
+242,results_executiveInformation_0_middleName,,<class 'NoneType'>
+243,results_executiveInformation_0_lastName,Dean,<class 'str'>
+244,results_executiveInformation_0_title,President,<class 'str'>
+245,results_businessFacts_fileEstablishedDate,2015-03-12,<class 'str'>
+246,results_businessFacts_fileEstablishedFlag_code,P,<class 'str'>
+247,results_businessFacts_fileEstablishedFlag_definition,P,<class 'str'>
+248,results_businessFacts_stateOfIncorporation,MA,<class 'str'>
+249,results_businessFacts_dateOfIncorporation,01/01/1996,<class 'str'>
+250,results_businessFacts_businessType,Corporation,<class 'str'>
+251,results_businessFacts_yearsInBusinessIndicator_code,A,<class 'str'>
+252,results_businessFacts_yearsInBusinessIndicator_definition,Under 1 year,<class 'str'>
+253,results_businessFacts_yearsInBusiness,4,<class 'int'>
+254,results_businessFacts_salesSizeCode,B,<class 'str'>
+255,results_businessFacts_salesRevenue,130311000,<class 'int'>
+256,results_businessFacts_employeeSizeCode,A,<class 'str'>
+257,results_businessFacts_employeeSize,13456,<class 'int'>
+258,results_businessFacts_locationEmployeeSizeCode,A,<class 'str'>
+259,results_businessFacts_locationEmployeeSize,50,<class 'int'>
+260,results_businessFacts_publicIndicator,False,<class 'bool'>
+261,results_businessFacts_nonProfitIndicator,False,<class 'bool'>
+262,results_businessFacts_locationSalesRevenue,1234,<class 'str'>
+263,results_corporateLinkage_0_businessName,EXPERIAN PLC,<class 'str'>
+264,results_corporateLinkage_0_bin,123456789,<class 'str'>
+265,results_corporateLinkage_0_corporateLinkageType,Ultimate Parent,<class 'str'>
+266,results_corporateLinkage_0_matchingBusinessIndicator,True,<class 'bool'>
+267,results_corporateLinkage_0_address_street,475 Anton Blvd,<class 'str'>
+268,results_corporateLinkage_0_address_city,Costa Mesa,<class 'str'>
+269,results_corporateLinkage_0_address_state,CA,<class 'str'>
+270,results_corporateLinkage_0_address_country,USA,<class 'str'>
+271,results_corporateLinkage_0_returnLimitExceeded,False,<class 'bool'>
+272,results_corporateLinkage_0_type,Ultimate Parent,<class 'str'>
+273,results_commercialFraudShieldSummary_matchingBusinessIndicator,string,<class 'str'>
+274,results_commercialFraudShieldSummary_activeBusinessIndicator,True,<class 'bool'>
+275,results_commercialFraudShieldSummary_ofacMatchWarning_code,13,<class 'int'>
+276,results_commercialFraudShieldSummary_ofacMatchWarning_definition,OFAC match to company name and address,<class 'str'>
+277,results_commercialFraudShieldSummary_ofacMatchWarning_detailStatement,"BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;",<class 'str'>
+278,results_commercialFraudShieldSummary_businessVictimStatementIndicator,True,<class 'bool'>
+279,results_commercialFraudShieldSummary_businessRiskTriggersIndicator,True,<class 'bool'>
+280,results_commercialFraudShieldSummary_nameAddressVerificationIndicator,True,<class 'bool'>
+281,results_commercialFraudShieldSummary_businessRiskTriggersStatement_0,string,<class 'str'>
+282,results_expandedCreditSummary_bankruptcyCount,0,<class 'int'>
+283,results_expandedCreditSummary_oldestBankruptcyDate,string,<class 'str'>
+284,results_expandedCreditSummary_mostRecentBankruptcyDate,string,<class 'str'>
+285,results_expandedCreditSummary_taxLienCount,0,<class 'int'>
+286,results_expandedCreditSummary_oldestTaxLienDate,string,<class 'str'>
+287,results_expandedCreditSummary_mostRecentTaxLienDate,string,<class 'str'>
+288,results_expandedCreditSummary_judgmentCount,0,<class 'int'>
+289,results_expandedCreditSummary_oldestJudgmentDate,string,<class 'str'>
+290,results_expandedCreditSummary_mostRecentJudgmentDate,string,<class 'str'>
+291,results_expandedCreditSummary_collectionCount,0,<class 'int'>
+292,results_expandedCreditSummary_collectionBalance,0,<class 'int'>
+293,results_expandedCreditSummary_collectionCountPast24Months,0,<class 'int'>
+294,results_expandedCreditSummary_legalBalance,0,<class 'int'>
+295,results_expandedCreditSummary_uccFilings,0,<class 'int'>
+296,results_expandedCreditSummary_uccDerogatoryCount,0,<class 'int'>
+297,results_expandedCreditSummary_currentAccountBalance,0,<class 'int'>
+298,results_expandedCreditSummary_currentTradelineCount,0,<class 'int'>
+299,results_expandedCreditSummary_monthlyAverageDbt,0,<class 'int'>
+300,results_expandedCreditSummary_highestDbt6Months,0,<class 'int'>
+301,results_expandedCreditSummary_highestDbt5Quarters,0,<class 'int'>
+302,results_expandedCreditSummary_activeTradelineCount,0,<class 'int'>
+303,results_expandedCreditSummary_allTradelineBalance,0,<class 'int'>
+304,results_expandedCreditSummary_allTradelineCount,0,<class 'int'>
+305,results_expandedCreditSummary_averageBalance5Quarters,0,<class 'int'>
+306,results_expandedCreditSummary_singleHighCredit,0,<class 'int'>
+307,results_expandedCreditSummary_lowBalance6Months,0,<class 'int'>
+308,results_expandedCreditSummary_highBalance6Months,0,<class 'int'>
+309,results_expandedCreditSummary_oldestCollectionDate,string,<class 'str'>
+310,results_expandedCreditSummary_mostRecentCollectionDate,string,<class 'str'>
+311,results_expandedCreditSummary_currentDbt,0,<class 'int'>
+312,results_expandedCreditSummary_oldestUccDate,string,<class 'str'>
+313,results_expandedCreditSummary_mostRecentUccDate,string,<class 'str'>
+314,results_expandedCreditSummary_bankruptcyIndicator,True,<class 'bool'>
+315,results_expandedCreditSummary_judgmentIndicator,True,<class 'bool'>
+316,results_expandedCreditSummary_taxLienIndicator,True,<class 'bool'>
+317,results_expandedCreditSummary_tradeCollectionCount,0,<class 'int'>
+318,results_expandedCreditSummary_tradeCollectionBalance,0,<class 'int'>
+319,results_expandedCreditSummary_openCollectionCount,0,<class 'int'>
+320,results_expandedCreditSummary_openCollectionBalance,0,<class 'int'>
+321,results_expandedCreditSummary_ofacMatchWarning_code,string,<class 'str'>
+322,results_expandedCreditSummary_ofacMatchWarning_definition,string,<class 'str'>
+323,results_expandedCreditSummary_ofacMatchWarning_detailStatement,string,<class 'str'>
+324,results_expandedCreditSummary_victimStatementIndicator,True,<class 'bool'>
+325,results_expandedCreditSummary_commercialFraudRiskIndicatorCount,0,<class 'int'>
+326,results_expandedCreditSummary_unsummarizedTradelineCount,0,<class 'int'>
+327,results_executiveSummary_lowestTotalAccountBalance_amount,0,<class 'int'>
+328,results_executiveSummary_lowestTotalAccountBalance_modifier,string,<class 'str'>
+329,results_executiveSummary_highestTotalAccountBalance_amount,0,<class 'int'>
+330,results_executiveSummary_highestTotalAccountBalance_modifier,string,<class 'str'>
+331,results_executiveSummary_currentTotalAccountBalance_amount,0,<class 'int'>
+332,results_executiveSummary_currentTotalAccountBalance_modifier,string,<class 'str'>
+333,results_executiveSummary_highCreditAmountExtended,0,<class 'int'>
+334,results_executiveSummary_medianCreditAmountExtended,0,<class 'int'>
+335,results_executiveSummary_industryDescription,string,<class 'str'>
+336,results_executiveSummary_businessDbt_code,0,<class 'int'>
+337,results_executiveSummary_businessDbt_definition,string,<class 'str'>
+338,results_executiveSummary_predictedDbt,0,<class 'int'>
+339,results_executiveSummary_predictedDbtDate,string,<class 'str'>
+340,results_executiveSummary_industryDbt,0,<class 'int'>
+341,results_executiveSummary_allIndustryDbt,0,<class 'int'>
+342,results_executiveSummary_industryPaymentComparison_code,string,<class 'str'>
+343,results_executiveSummary_industryPaymentComparison_definition,string,<class 'str'>
+344,results_executiveSummary_paymentTrendIndicator_code,string,<class 'str'>
+345,results_executiveSummary_paymentTrendIndicator_definition,string,<class 'str'>
+346,results_executiveSummary_commonTerms_first,string,<class 'str'>
+347,results_executiveSummary_commonTerms_second,string,<class 'str'>
+348,results_executiveSummary_commonTerms_third,string,<class 'str'>
+349,results_inquiries_0_inquiryBusinessCategory,string,<class 'str'>
+350,results_inquiries_0_inquiryCount_0_month,0,<class 'int'>
+351,results_inquiries_0_inquiryCount_0_year,0,<class 'int'>
+352,results_inquiries_0_inquiryCount_0_count,0,<class 'int'>
+353,results_competitors_0_competitorName,string,<class 'str'>
+354,results_competitors_0_competitorBin,string,<class 'str'>
+355,results_proprietorNameAndAddress_0_profileType,string,<class 'str'>
+356,results_proprietorNameAndAddress_0_profileDate,string,<class 'str'>
+357,results_proprietorNameAndAddress_0_proprietorName,string,<class 'str'>
+358,results_proprietorNameAndAddress_0_address_street,535 ANTON BLVD,<class 'str'>
+359,results_proprietorNameAndAddress_0_address_city,Costa Mesa,<class 'str'>
+360,results_proprietorNameAndAddress_0_address_state,CA,<class 'str'>
+361,results_proprietorNameAndAddress_0_address_zip,92626,<class 'str'>
+362,results_proprietorNameAndAddress_0_address_zipExtension,9262,<class 'str'>
+363,results_proprietorNameAndAddress_0_ssn,string,<class 'str'>
+364,results_proprietorNameAndAddress_0_title,string,<class 'str'>
+365,results_uccCoDebtors_0_name,string,<class 'str'>
+366,results_uccCoDebtors_0_address_street,535 ANTON BLVD,<class 'str'>
+367,results_uccCoDebtors_0_address_city,Costa Mesa,<class 'str'>
+368,results_uccCoDebtors_0_address_state,CA,<class 'str'>
+369,results_uccCoDebtors_0_address_zip,92626,<class 'str'>
+370,results_uccCoDebtors_0_address_zipExtension,1947,<class 'str'>
+371,results_uccCoDebtors_0_taxId,string,<class 'str'>
+372,results_uccCoDebtors_0_sequenceNumber,0,<class 'int'>
+373,results_sicCodes_0_code,7323,<class 'str'>
+374,results_sicCodes_0_definition,CREDIT REPORTING SERVICES,<class 'str'>
+375,results_naicsCodes_0_code,561450,<class 'str'>
+376,results_naicsCodes_0_definition,Credit Bureaus,<class 'str'>
+377,results_scoreInformation_fsrScore_publiclyHeldCompany,True,<class 'bool'>
+378,results_scoreInformation_fsrScore_limitedProfile,True,<class 'bool'>
+379,results_scoreInformation_fsrScore_score,0,<class 'int'>
+380,results_scoreInformation_fsrScore_profileNumber,string,<class 'str'>
+381,results_scoreInformation_fsrScore_modelCode,string,<class 'str'>
+382,results_scoreInformation_fsrScore_modelTitle,string,<class 'str'>
+383,results_scoreInformation_fsrScore_percentileRanking,0,<class 'int'>
+384,results_scoreInformation_fsrScore_probability,0,<class 'int'>
+385,results_scoreInformation_fsrScore_riskClass_code,0,<class 'int'>
+386,results_scoreInformation_fsrScore_riskClass_definition,string,<class 'str'>
+387,results_scoreInformation_fsrScore_customerDisputeIndicator,True,<class 'bool'>
+388,results_scoreInformation_commercialScore_publiclyHeldCompany,True,<class 'bool'>
+389,results_scoreInformation_commercialScore_limitedProfile,True,<class 'bool'>
+390,results_scoreInformation_commercialScore_score,0,<class 'int'>
+391,results_scoreInformation_commercialScore_profileNumber,string,<class 'str'>
+392,results_scoreInformation_commercialScore_modelCode,string,<class 'str'>
+393,results_scoreInformation_commercialScore_modelTitle,string,<class 'str'>
+394,results_scoreInformation_commercialScore_percentileRanking,0,<class 'int'>
+395,results_scoreInformation_commercialScore_probability,0,<class 'int'>
+396,results_scoreInformation_commercialScore_riskClass_code,0,<class 'int'>
+397,results_scoreInformation_commercialScore_riskClass_definition,string,<class 'str'>
+398,results_scoreInformation_commercialScore_customerDisputeIndicator,True,<class 'bool'>
+399,results_scoreInformation_commercialScore_customModelCode,string,<class 'str'>
+400,results_scoreInformation_commercialScore_recommendedCreditLimitAmount,0,<class 'int'>
+401,results_scoreInformation_commercialScore_highCreditLimitAmount,0,<class 'int'>
+402,results_scoreInformation_fsrScoreFactors_0_code,string,<class 'str'>
+403,results_scoreInformation_fsrScoreFactors_0_definition,string,<class 'str'>
+404,results_scoreInformation_commercialScoreFactors_0_code,string,<class 'str'>
+405,results_scoreInformation_commercialScoreFactors_0_definition,string,<class 'str'>
+406,results_scoreInformation_fsrScoreTrends_0_quarter,string,<class 'str'>
+407,results_scoreInformation_fsrScoreTrends_0_score,0,<class 'int'>
+408,results_scoreInformation_fsrScoreTrends_0_industryScore,0,<class 'int'>
+409,results_scoreInformation_commercialScoreTrends_0_quarter,string,<class 'str'>
+410,results_scoreInformation_commercialScoreTrends_0_score,0,<class 'int'>
+411,results_scoreInformation_commercialScoreTrends_0_industryScore,0,<class 'int'>
+412,results_stockExchange,New York Stock Exchange,<class 'str'>
+413,results_fortune1000_0_year,2012,<class 'int'>
+414,results_fortune1000_0_rank,30,<class 'int'>
+415,results_enhancedBusinessDescription,string,<class 'str'>
+416,results_corporateFinancialInformation_currentDate,string,<class 'str'>
+417,results_corporateFinancialInformation_fiscalYearEndDate,string,<class 'str'>
+418,results_corporateFinancialInformation_balanceSheets_0_yearEnd,0,<class 'int'>
+419,results_corporateFinancialInformation_balanceSheets_0_cashAndEquivalent,0,<class 'int'>
+420,results_corporateFinancialInformation_balanceSheets_0_receivablesNet,0,<class 'int'>
+421,results_corporateFinancialInformation_balanceSheets_0_inventory,0,<class 'int'>
+422,results_corporateFinancialInformation_balanceSheets_0_otherCurrentAssets,0,<class 'int'>
+423,results_corporateFinancialInformation_balanceSheets_0_totalCurrentAssets,0,<class 'int'>
+424,results_corporateFinancialInformation_balanceSheets_0_fixedAssets,0,<class 'int'>
+425,results_corporateFinancialInformation_balanceSheets_0_investments,0,<class 'int'>
+426,results_corporateFinancialInformation_balanceSheets_0_otherAssets,0,<class 'int'>
+427,results_corporateFinancialInformation_balanceSheets_0_totalAssets,0,<class 'int'>
+428,results_corporateFinancialInformation_balanceSheets_0_debtDueIn1Year,0,<class 'int'>
+429,results_corporateFinancialInformation_balanceSheets_0_notesPayable,0,<class 'int'>
+430,results_corporateFinancialInformation_balanceSheets_0_accountsPayable,0,<class 'int'>
+431,results_corporateFinancialInformation_balanceSheets_0_taxesPayable,0,<class 'int'>
+432,results_corporateFinancialInformation_balanceSheets_0_otherCurrentLiabilities,0,<class 'int'>
+433,results_corporateFinancialInformation_balanceSheets_0_totalCurrentLiabilities,0,<class 'int'>
+434,results_corporateFinancialInformation_balanceSheets_0_longTermDebt,0,<class 'int'>
+435,results_corporateFinancialInformation_balanceSheets_0_otherLiabilities,0,<class 'int'>
+436,results_corporateFinancialInformation_balanceSheets_0_netWorth,0,<class 'int'>
+437,results_corporateFinancialInformation_balanceSheets_0_totalLiabilitiesandNetWorth,0,<class 'int'>
+438,results_corporateFinancialInformation_operatingStatements_0_yearEnd,0,<class 'int'>
+439,results_corporateFinancialInformation_operatingStatements_0_netSales,0,<class 'int'>
+440,results_corporateFinancialInformation_operatingStatements_0_costOfGoodsSold,0,<class 'int'>
+441,results_corporateFinancialInformation_operatingStatements_0_grossIncomeOnSales,0,<class 'int'>
+442,results_corporateFinancialInformation_operatingStatements_0_expenses,0,<class 'int'>
+443,results_corporateFinancialInformation_operatingStatements_0_preTaxIncome,0,<class 'int'>
+444,results_corporateFinancialInformation_operatingStatements_0_taxes,0,<class 'int'>
+445,results_corporateFinancialInformation_operatingStatements_0_afterTaxes,0,<class 'int'>
+446,results_corporateFinancialInformation_operatingStatements_0_extraordinaryIncome,0,<class 'int'>
+447,results_corporateFinancialInformation_operatingStatements_0_netIncome,0,<class 'int'>
+448,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_yearEnd,0,<class 'int'>
+449,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_tangibleNetWorth,0,<class 'int'>
+450,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_netWorkingCapital,0,<class 'int'>
+451,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_currentRatio,0,<class 'int'>
+452,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_totalDebttoTangibleNetWorth,0,<class 'int'>
+453,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_currentDebtToTangibleNetWorth,0,<class 'int'>
+454,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_afterTaxIncomeToTangibleNetWorth,0,<class 'int'>
+455,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_afterTaxIncomeToNetSales,0,<class 'int'>
+456,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_netSalestoInventory,0,<class 'int'>
+457,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_costOfGoodsSoldToInventory,0,<class 'int'>
+458,results_corporateFinancialInformation_criticalDataAndFinancialRatios_0_averageDaysSalesOutstanding,0,<class 'int'>
+459,results_consumerStatement_0_type_code,123,<class 'str'>
+460,results_consumerStatement_0_type_definition,Definition of 123,<class 'str'>
+461,results_consumerStatement_0_dateReported,string,<class 'str'>
+462,results_consumerStatement_0_text,string,<class 'str'>
+463,results_commercialGovernmentEntityCode_cageCode,string,<class 'str'>
+464,results_commercialGovernmentEntityCode_samNumber,0,<class 'int'>
+465,results_economicDiversity_minorityOwnedIndicator,True,<class 'bool'>
+466,results_economicDiversity_womenOwnedIndicator,True,<class 'bool'>
+467,results_economicDiversity_disadvantagedIndicator,True,<class 'bool'>
+468,results_economicDiversity_sbaCertifiedIndicator,True,<class 'bool'>
+469,results_economicDiversity_sba8aIndicator,True,<class 'bool'>
+470,results_economicDiversity_hubZoneIndicator,True,<class 'bool'>
+471,results_economicDiversity_veteranOwnedIndicator,True,<class 'bool'>
+472,results_economicDiversity_disabledVeteranOwnedIndicator,True,<class 'bool'>
+473,results_economicDiversity_historicalBlackCollegeAndUniversitiesIndicator,True,<class 'bool'>
+474,results_governmentActivity_congressionalDistrict,string,<class 'str'>
+475,results_governmentActivity_contractor,string,<class 'str'>
+476,results_governmentActivity_debarredIndicator,string,<class 'str'>
+477,results_governmentActivity_agency,string,<class 'str'>
+478,results_governmentActivity_exclusionType,string,<class 'str'>
+479,results_governmentActivity_activeDate,string,<class 'str'>
+480,results_governmentActivity_terminationDate,string,<class 'str'>
+481,results_governmentActivity_importExportCode,string,<class 'str'>
+482,results_contractSpendingSummary_totalDollarAmount,0,<class 'int'>
+483,results_contractSpendingSummary_totalNumberOfTransactions,0,<class 'int'>
+484,results_contractSpendingSummary_spendByFiscalYear_0_year,0,<class 'int'>
+485,results_contractSpendingSummary_spendByFiscalYear_0_totalAmount,0,<class 'int'>
+486,results_contractSpendingSummary_spendByFiscalYear_0_singleHighestAmount,0,<class 'int'>
+487,results_contractSpendingDetail_0_contractAction,string,<class 'str'>
+488,results_contractSpendingDetail_0_contractId,string,<class 'str'>
+489,results_contractSpendingDetail_0_programSource,string,<class 'str'>
+490,results_contractSpendingDetail_0_departmentAgency,string,<class 'str'>
+491,results_contractSpendingDetail_0_productService,string,<class 'str'>
+492,results_contractSpendingDetail_0_signedDate,string,<class 'str'>
+493,results_contractSpendingDetail_0_obligationAmount,0,<class 'int'>
+494,results_contractSpendingDetail_0_reasonForModification,string,<class 'str'>
+495,results_contractSpendingDetail_0_additionalDescription,string,<class 'str'>
+496,results_contractSpendingDetail_0_sequenceNumber,0,<class 'int'>
+497,results_leasingInformation_0_leasingName,1,<class 'str'>
+498,results_leasingInformation_0_address_city,1,<class 'str'>
+499,results_leasingInformation_0_address_state,1,<class 'str'>
+500,results_leasingInformation_0_address_zip,1,<class 'str'>
+501,results_leasingInformation_0_phone,1,<class 'str'>
+502,results_leasingInformation_0_leaseCommencementDate,1,<class 'str'>
+503,results_leasingInformation_0_originalLeaseAmount,1,<class 'int'>
+504,results_leasingInformation_0_leaseCloseDate,1,<class 'str'>
+505,results_leasingInformation_0_leaseTerm,1,<class 'int'>
+506,results_leasingInformation_0_paymentsPerYear,1,<class 'int'>
+507,results_leasingInformation_0_paymentInterval,1,<class 'str'>
+508,results_leasingInformation_0_paymentType,1,<class 'str'>
+509,results_leasingInformation_0_commentCode,1,<class 'str'>
+510,results_leasingInformation_0_currentDueDate,1,<class 'str'>
+511,results_leasingInformation_0_scheduledAmountDue,1,<class 'int'>
+512,results_leasingInformation_0_currentBalanceAmount,1,<class 'int'>
+513,results_leasingInformation_0_numberOfPaymentsOverdue,1,<class 'int'>
+514,results_leasingInformation_0_paymentOverdueAmount,1,<class 'int'>
+515,results_leasingInformation_0_totalRemainingBalance,1,<class 'int'>
+516,results_leasingInformation_0_numberOfCurrentPayments,1,<class 'int'>
+517,results_leasingInformation_0_numberOfLatePayments,1,<class 'int'>
+518,results_leasingInformation_0_daysLate30,1,<class 'int'>
+519,results_leasingInformation_0_daysLate60,1,<class 'int'>
+520,results_leasingInformation_0_daysLate90,1,<class 'int'>
+521,results_leasingInformation_0_daysLate90Plus,1,<class 'int'>
+522,results_leasingInformation_0_leaseProductType,1,<class 'str'>
+523,results_leasingInformation_0_leaseType,1,<class 'str'>
+524,results_leasingInformation_0_leaseExtractDate,1,<class 'str'>
+525,results_leasingInformation_0_customerDisputeIndicator,1,<class 'int'>
+526,results_licenseDetails_0_licenseState,1,<class 'str'>
+527,results_licenseDetails_0_licenseNumber,1,<class 'str'>
+528,results_licenseDetails_0_licenseDateIssued,1,<class 'str'>
+529,results_licenseDetails_0_licenseStatus,1,<class 'str'>
+530,results_bondDetails_0_bondAmount,1,<class 'int'>
+531,results_bondDetails_0_bondEffectiveDate,1,<class 'str'>
+532,results_bondDetails_0_bondNumber,1,<class 'str'>
+533,results_bondDetails_0_bondCompany,1,<class 'str'>
+534,results_insuranceDetails_0_insuranceEffectiveDate,1,<class 'str'>
+535,results_insuranceDetails_0_insuranceExpirationDate,1,<class 'str'>
+536,results_stocks_stockExchange,1,<class 'str'>
+537,results_stocks_tickerSymbol,1,<class 'str'>
+538,results_commercialBankInformation_0_institutionType,1,<class 'str'>
+539,results_commercialBankInformation_0_relationship,1,<class 'str'>
+540,results_commercialBankInformation_0_institutionName,1,<class 'str'>
+541,results_commercialBankInformation_0_address,1,<class 'str'>
+542,results_commercialBankInformation_0_phone,1,<class 'str'>
+543,results_commercialBankInformation_0_profileDate,1,<class 'str'>
+544,results_commercialBankInformation_0_openDate,1,<class 'str'>
+545,results_commercialBankInformation_0_closeDate,1,<class 'str'>
+546,results_commercialBankInformation_0_accountRating,1,<class 'str'>
+547,results_commercialBankInformation_0_balanceRange,1,<class 'str'>
+548,results_commercialBankInformation_0_figuresInBalance,1,<class 'int'>
+549,results_commercialBankInformation_0_balanceAmount,1,<class 'int'>
+550,results_commercialBankInformation_0_customerDisputeIndicator,1,<class 'int'>

@@ -1,0 +1,15 @@
+,Attribute,Sample Value,Data Type
+0,name,Experian,<class 'str'>
+1,city,Costa Mesa,<class 'str'>
+2,state,CA,<class 'str'>
+3,subcode,0586548,<class 'str'>
+4,street,475 ANTON BLVD,<class 'str'>
+5,zip,92626,<class 'str'>
+6,phone,9495673800,<class 'str'>
+7,taxId,176970333,<class 'str'>
+8,geo,True,<class 'bool'>
+9,comments,testing,<class 'str'>
+10,modelCode,000254,<class 'str'>
+11,matchReliabilityCode,90.75,<class 'float'>
+12,commercialScore,True,<class 'bool'>
+13,fsrScore,True,<class 'bool'>

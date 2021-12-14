@@ -1,0 +1,49 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "testing",
+  "results": {
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    },
+    "matchingBusinessAddress": "Primary Business",
+    "activeBusinessIndicator": true,
+    "ofacMatchWarning": {
+      "code": 13,
+      "definition": "OFAC match to company name and address",
+      "detailStatement": "BANK MELLI IRAN INVESTMENT COMPANY (a.k.a. BMIIC), Rafiee Alley, Nader Alley, 2 After Serahi Shahid Beheshti, Vali E Asr Avenue, Tehran, Iran; No. 2, Nader Alley, Vali-Asr Str., P.O. Box 3898-15875, Tehran, Iran; Bldg 2, Nader Alley after Beheshi Forked Road, P.O. Box 15875-3898, Tehran 15116, Iran; Business Registration Document # 89584 (Iran)  NPWMD ;"
+    },
+    "businessVictimStatementIndicator": true,
+    "businessRiskTriggersIndicator": true,
+    "businessRiskTriggersStatement": "BUSINESS ADDRESS IDENTIFIED AS RESIDENTIAL",
+    "nameAddressVerificationIndicator": true
+  }
+}

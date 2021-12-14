@@ -1,0 +1,9 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,success,True,<class 'bool'>
+2,comments,testing,<class 'str'>
+3,results,"
+<html xmlns:prd=""http://www.experian.com/BIS"">
+<head>
+<title>Premier Profile</title>
+<style type=""text/css""",<class 'str'>

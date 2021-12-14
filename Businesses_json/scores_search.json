@@ -1,0 +1,129 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "abcde12345",
+  "results": {
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    },
+    "commercialScore": {
+      "modelCode": "000254",
+      "modelTitle": "INTELLISCORE PLUS V3 ML",
+      "customModelCode": "02",
+      "score": 11,
+      "percentileRanking": 10,
+      "recommendedCreditLimitAmount": 206400,
+      "riskClass": {
+        "code": 4,
+        "definition": "MEDIUM TO HIGH RISK"
+      }
+    },
+    "commercialScoreFactors": [
+      {
+        "code": "033",
+        "definition": "NUMBER OF COMMERCIAL ACCOUNTS THAT ARE CURRENT"
+      }
+    ],
+    "commercialScoreTrends": [
+      {
+        "quarter": "DEC-FEB",
+        "score": 8
+      }
+    ],
+    "fsrScore": {
+      "modelCode": "string",
+      "modelTitle": "string",
+      "score": 0,
+      "percentileRanking": 0,
+      "recommendedCreditLimitAmount": 206400,
+      "riskClass": {
+        "code": 1,
+        "definition": "Low Risk"
+      }
+    },
+    "fsrScoreFactors": [
+      {
+        "code": "string",
+        "definition": "string"
+      }
+    ],
+    "fsrScoreTrends": [
+      {
+        "quarter": "string",
+        "score": 0
+      }
+    ],
+    "listOfSimilars": [
+      {
+        "bin": "800914632",
+        "reliabilityCode": 91.02,
+        "businessName": "EXPERIAN",
+        "phone": "+17148307000",
+        "address": {
+          "street": "535 ANTON BLVD",
+          "city": "Costa Mesa",
+          "state": "CA",
+          "zip": "92626",
+          "zipExtension": "9262"
+        },
+        "numberOfTradelines": 62,
+        "financialStatementIndicator": true,
+        "keyFactsIndicator": true,
+        "inquiryIndicator": true,
+        "bankDataIndicator": true,
+        "governmentDataIndicator": true,
+        "executiveSummaryIndicator": true,
+        "uccIndicator": true,
+        "matchingNameAndAddress": {
+          "businessName": "EXPERIAN",
+          "address": {
+            "street": "535 ANTON BLVD",
+            "city": "Costa Mesa",
+            "state": "CA",
+            "zip": "92626",
+            "zipExtension": "9262"
+          }
+        },
+        "businessGeocode": {
+          "latitudeLongitudeLevel": "Roof Top Level",
+          "latitude": 33.690764,
+          "longitude": -117.873551,
+          "msaCode": "5945",
+          "censusBlkGrpCode": "2",
+          "censusTractCode": "063907",
+          "cottageIndicator": true,
+          "congressionalDistrictCode": "48",
+          "dateLastReported": "01/01/1977"
+        }
+      }
+    ]
+  }
+}

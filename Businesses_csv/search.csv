@@ -1,0 +1,37 @@
+,Attribute,Sample Value,Data Type
+0,requestId,ec55cca0-9342-11e7-bddf-ebd4476c3102,<class 'str'>
+1,responseMessage,"Your search did not match any records. Suggestions try adding optional fields like street address and phone to your search, check your spelling, and remember, the absence of a match can be valuable information.",<class 'str'>
+2,comments,my_guid_for_tracking,<class 'str'>
+3,success,True,<class 'bool'>
+4,results_0_bin,800914632,<class 'str'>
+5,results_0_reliabilityCode,91.02,<class 'float'>
+6,results_0_businessName,EXPERIAN,<class 'str'>
+7,results_0_phone,+17148307000,<class 'str'>
+8,results_0_address_street,535 ANTON BLVD,<class 'str'>
+9,results_0_address_city,Costa Mesa,<class 'str'>
+10,results_0_address_state,CA,<class 'str'>
+11,results_0_address_zip,92626,<class 'str'>
+12,results_0_address_zipExtension,9262,<class 'str'>
+13,results_0_numberOfTradelines,62,<class 'int'>
+14,results_0_financialStatementIndicator,True,<class 'bool'>
+15,results_0_keyFactsIndicator,True,<class 'bool'>
+16,results_0_inquiryIndicator,True,<class 'bool'>
+17,results_0_bankDataIndicator,True,<class 'bool'>
+18,results_0_governmentDataIndicator,True,<class 'bool'>
+19,results_0_executiveSummaryIndicator,True,<class 'bool'>
+20,results_0_uccIndicator,True,<class 'bool'>
+21,results_0_matchingNameAndAddress_businessName,EXPERIAN,<class 'str'>
+22,results_0_matchingNameAndAddress_address_street,535 ANTON BLVD,<class 'str'>
+23,results_0_matchingNameAndAddress_address_city,Costa Mesa,<class 'str'>
+24,results_0_matchingNameAndAddress_address_state,CA,<class 'str'>
+25,results_0_matchingNameAndAddress_address_zip,92626,<class 'str'>
+26,results_0_matchingNameAndAddress_address_zipExtension,9262,<class 'str'>
+27,results_0_businessGeocode_latitudeLongitudeLevel,Roof Top Level,<class 'str'>
+28,results_0_businessGeocode_latitude,33.690764,<class 'float'>
+29,results_0_businessGeocode_longitude,-117.873551,<class 'float'>
+30,results_0_businessGeocode_msaCode,5945,<class 'str'>
+31,results_0_businessGeocode_censusBlkGrpCode,2,<class 'str'>
+32,results_0_businessGeocode_censusTractCode,063907,<class 'str'>
+33,results_0_businessGeocode_cottageIndicator,True,<class 'bool'>
+34,results_0_businessGeocode_congressionalDistrictCode,48,<class 'str'>
+35,results_0_businessGeocode_dateLastReported,01/01/1977,<class 'str'>

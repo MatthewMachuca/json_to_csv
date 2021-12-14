@@ -1,0 +1,21 @@
+{
+  "requestId": "C600331850",
+  "success": true,
+  "reverseAddresses": [
+    {
+      "sequenceNumber": 1,
+      "bin": "800914632",
+      "businessName": "DSG BENEFITS GROUP, LLC",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "binEstablishDate": "12/16/2013",
+      "binActivityCode": "A",
+      "binDateLastReported": "06/09/2016"
+    }
+  ]
+}

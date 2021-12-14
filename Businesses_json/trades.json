@@ -1,0 +1,230 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "testing",
+  "results": {
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    },
+    "tradePaymentSummary": {
+      "currentDbt": 2,
+      "monthlyAverageDbt": 1,
+      "highestDbt6Months": 3,
+      "highestDbt5Quarters": 4,
+      "allTradelineCount": 9,
+      "allTradelineBalance": 3402100,
+      "currentTradelineCount": 3,
+      "currentAccountBalance": 142600,
+      "medianCreditAmountExtended": 1623500,
+      "singleHighCredit": 142600
+    },
+    "tradePaymentTotals": {
+      "tradelines": {
+        "tradelineCount": 12,
+        "currentDbt": 18,
+        "totalHighCreditAmount": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "totalAccountBalance": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "currentPercentage": 100,
+        "dbt30": 90,
+        "dbt60": 5,
+        "dbt90": 3,
+        "dbt91Plus": 1,
+        "numberOfLines": 27,
+        "dbt": 33
+      },
+      "newlyReportedTradelines": {
+        "tradelineCount": 12,
+        "currentDbt": 18,
+        "totalHighCreditAmount": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "totalAccountBalance": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "currentPercentage": 100,
+        "dbt30": 90,
+        "dbt60": 5,
+        "dbt90": 3,
+        "dbt91Plus": 1,
+        "numberOfLines": 27,
+        "dbt": 33
+      },
+      "continuouslyReportedTradelines": {
+        "tradelineCount": 12,
+        "currentDbt": 18,
+        "totalHighCreditAmount": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "totalAccountBalance": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "currentPercentage": 100,
+        "dbt30": 90,
+        "dbt60": 5,
+        "dbt90": 3,
+        "dbt91Plus": 1,
+        "numberOfLines": 27,
+        "dbt": 33
+      },
+      "combinedTradelines": {
+        "tradelineCount": 12,
+        "currentDbt": 18,
+        "totalHighCreditAmount": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "totalAccountBalance": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "currentPercentage": 100,
+        "dbt30": 90,
+        "dbt60": 5,
+        "dbt90": 3,
+        "dbt91Plus": 1,
+        "numberOfLines": 27,
+        "dbt": 33
+      },
+      "additionalTradelines": {
+        "tradelineCount": 12,
+        "currentDbt": 18,
+        "totalHighCreditAmount": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "totalAccountBalance": {
+          "amount": 12978,
+          "modifier": "Balance is more than amount reported"
+        },
+        "currentPercentage": 100,
+        "dbt30": 90,
+        "dbt60": 5,
+        "dbt90": 3,
+        "dbt91Plus": 1,
+        "numberOfLines": 27,
+        "dbt": 33
+      }
+    },
+    "tradePaymentExperiences": {
+      "tradeNewAndContinuous": [
+        {
+          "businessCategory": "BLDG MATRL",
+          "dateReported": "2017-07-10",
+          "dateLastActivity": "2017-08-01",
+          "terms": "NET30",
+          "recentHighCredit": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "accountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 0,
+          "dbt30": 33,
+          "dbt60": 33,
+          "dbt90": 34,
+          "dbt91Plus": 0,
+          "comments": "ACCTCLOSED",
+          "newlyReportedIndicator": true,
+          "customerDisputeIndicator": true
+        }
+      ],
+      "tradeAdditional": [
+        {
+          "businessCategory": "BLDG MATRL",
+          "dateReported": "2017-07-10",
+          "dateLastActivity": "2017-08-01",
+          "terms": "NET30",
+          "recentHighCredit": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "accountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 0,
+          "dbt30": 33,
+          "dbt60": 33,
+          "dbt90": 34,
+          "dbt91Plus": 0,
+          "comments": "ACCTCLOSED",
+          "newlyReportedIndicator": true,
+          "customerDisputeIndicator": true
+        }
+      ]
+    },
+    "tradePaymentTrends": {
+      "monthlyTrends": [
+        {
+          "date": "2017-08-31",
+          "dbt": 15,
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 95,
+          "dbt30": 3,
+          "dbt60": 1,
+          "dbt90": 1,
+          "dbt91Plus": 0
+        }
+      ],
+      "quarterlyTrends": [
+        {
+          "date": "2017-08-31",
+          "dbt": 15,
+          "totalAccountBalance": {
+            "amount": 12978,
+            "modifier": "Balance is more than amount reported"
+          },
+          "currentPercentage": 95,
+          "dbt30": 3,
+          "dbt60": 1,
+          "dbt90": 1,
+          "dbt91Plus": 0
+        }
+      ]
+    },
+    "tradeIndicator": true
+  }
+}

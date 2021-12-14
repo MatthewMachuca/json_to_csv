@@ -1,0 +1,61 @@
+{
+  "requestId": "ec55cca0-9342-11e7-bddf-ebd4476c3102",
+  "success": true,
+  "comments": "Sample String Value",
+  "results": {
+    "pppSeqNum": "004774539",
+    "businessName": "ADVANCED CABLE TECHNOLOGY INC",
+    "addressLine1": "184 TWO ROD ROAD",
+    "city": "MARILLA",
+    "state": "NY",
+    "zip": "14102",
+    "businessType": "SUBCHAPTER S CORPORATION",
+    "nonProfit": "",
+    "naicsCode": "541512",
+    "raceEthnicity": "UNANSWERED",
+    "gender": "UNANSWERED",
+    "veteran": "UNANSWERED",
+    "loanRange": "E $150,000-350,000",
+    "beginLoan": 150000,
+    "endLoan": 350000,
+    "jobsRetained": 11,
+    "jobsReported": 56,
+    "lender": "MANUFACTURERS AND TRADERS TRUST COMPANY",
+    "loanAmount": "509417",
+    "cd": "NY-27",
+    "dateApproved": "04/15/2020",
+    "outMinimumMrc": 75,
+    "outLegacyMrc": 100,
+    "businessHeader": {
+      "bin": "800914632",
+      "businessName": "EXPERIAN CONSUMER DIRECT",
+      "address": {
+        "street": "535 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "phone": "+19495673800",
+      "taxId": "176970333",
+      "websiteUrl": "consumerinfo.com",
+      "legalBusinessName": "EXPERIAN CONSUMER DIRECT",
+      "dbaNames": ["EXPERIAN CONSUMER DIRECT"],
+      "customerDisputeIndicator": true,
+      "foreignCountry": true,
+      "corporateLinkageIndicator": true,
+      "matchingBranchAddress": {
+        "bin": "800914632",
+        "street": "475 ANTON BLVD",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "zipExtension": "1947"
+      },
+      "branchLocation": {
+        "bin": "800914632",
+        "locationId": "475 ANTON BLVD"
+      }
+    }
+  }
+}
