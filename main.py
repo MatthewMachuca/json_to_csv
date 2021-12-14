@@ -20,7 +20,7 @@ def json_tocsv(filename):
 
     flat_values = flat.values()
     flat_keys = flat.keys()
-    types = {}
+   
 
     t_hold = []
 
@@ -36,7 +36,7 @@ def json_tocsv(filename):
         'Data Type': t_hold }
     )
 
-    #df.to_csv('test6.csv')
+   
 
     df.to_csv(f'{csv_filename}.csv')
 
